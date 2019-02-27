@@ -1,5 +1,6 @@
 The purpose of this HW is to write a python script
-to collect data (for example, the uses and safety of a dietary supplement) from https://www.webmd.com
+to collect data from https://www.webmd.com
+(for example, the uses and safety of a dietary supplement)
 
 From https://www.webmd.com/vitamins/index, we can see that there are 27 index pages for various vitamins and supplements: A, B, ..., Z, and 0-9.
 If we click any of them, say, A, it will take us to
@@ -9,7 +10,7 @@ As an example, the first link https://www.webmd.com/vitamins/ai/ingredientmono-2
 
 Eventually we want to download all the 1203 items, and extract from them such information as common names, uses, safety.
 
-But first, let us focus on downloading the 27 index pages, from
+But first, let us focus on downloading the 27 index pages in this HW, from
 ```
 https://www.webmd.com/vitamins/alpha/a
 ```
@@ -20,7 +21,7 @@ https://www.webmd.com/vitamins/alpha/0
 
 **STEP 1:**  Create a folder for saving the downloads.
 
-Suppose your current working directory is ~/git_projects/firstdonoharm (if you are not familiar with linux or unix commands, https://linuxsurvival.com/ has a nice tutorial on basic linux commands.)
+Suppose your current working directory is `~/git_projects/firstdonoharm`. If you are not familiar with linux or unix commands, https://linuxsurvival.com/ has a nice tutorial on basic linux commands. BTW, `~` means home directory
 
 ```
 cd HW1
@@ -66,7 +67,7 @@ cmd = 'curl ' + url + ' --output ' + outfilepath
 cmd
 ```
 
-To successfully run the following commands, you need to do it on your own computer with `ipython`, and your current working directory should be: `~/git_projects/firstdonoharm/HW1`. Why?
+To successfully run the following commands, you need to do it on your own computer with `ipython`, and your current working directory should be: `~/git_projects/firstdonoharm/HW1`.
 ```
 import os
 print(cmd)
@@ -76,7 +77,7 @@ os.system(cmd)
 ```
 After running `os.system(cmd)`, you should find a newly downloaded file `z.html` in your folder `HW1/index_pages`
 
-** STEP 4:**
+**STEP 4:**
 Write a python script to do the download automatically
 
 (1) install an editor.
