@@ -6,9 +6,9 @@ From https://www.webmd.com/vitamins/index, we can see that there are 27 index pa
 If we click any of them, say, A, it will take us to
 https://www.webmd.com/vitamins/alpha/a, which contains links to
 vitamins and supplements whose name starts with letter A.
-As an example, the first link https://www.webmd.com/vitamins/ai/ingredientmono-266/abscess-root points to the details of a herb root called ABSCESS ROOT. For letter A, there are 100 such items; for letter B, there are 116 items, etc. In total, there are 1203 items.
+As an example, the first link https://www.webmd.com/vitamins/ai/ingredientmono-266/abscess-root points to the details of a herb root called ABSCESS ROOT. For letter A, there are 101 such items; for letter B, there are 117 items, etc. In total, there are 1214 items.
 
-Eventually we want to download all the 1203 items, and extract from them such information as common names, uses, safety.
+Eventually we want to download all the 1214 items, and extract from them such information as common names, uses, safety.
 
 But first, let us focus on downloading the 27 index pages in this HW, from
 ```
@@ -39,7 +39,7 @@ curl https://www.webmd.com/vitamins/alpha/b --output index_pages/b.html
 
 Go to page: https://www.python.org/shell/
 
-or, even better, in your MacOS terminal, run "ipython" (if the python version in your MacOS is 2.7, please go to https://www.anaconda.com/distribution/ to download and install Python 3.7 version)
+or, even better, in your Mac terminal, run "ipython" (if the python version in your Mac is 2.7, please go to https://www.anaconda.com/distribution/ to download and install Python 3.7 version)
 
 (1) play with following commands: type each one after the prompt `>>>`
 
