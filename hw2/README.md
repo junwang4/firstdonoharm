@@ -30,7 +30,7 @@ Python notebooks are human-readable documents that allow one to program in the b
 
 If you already installed Anaconda Python 3.7, you are ready to use a python notebook tool `Jupyter Notebook`.
 
-Open a terminal in your Mac, go to your HW2 folder, then type
+Open a terminal in your Mac, go to your hw2 folder, then type
 ```
 jupyter notebook bs4.ipynb
 ```

@@ -24,7 +24,7 @@ https://www.webmd.com/vitamins/alpha/0
 Suppose your current working directory is `~/git_projects/firstdonoharm`. If you are not familiar with linux or unix commands, https://linuxsurvival.com/ has a nice tutorial on basic linux commands. BTW, `~` means home directory
 
 ```
-cd HW1
+cd hw1
 mkdir index_pages
 ```
 
@@ -67,7 +67,7 @@ cmd = 'curl ' + url + ' --output ' + outfilepath
 cmd
 ```
 
-To successfully run the following commands, you need to do it on your own computer with `ipython`, and your current working directory should be: `~/git_projects/firstdonoharm/HW1`.
+To successfully run the following commands, you need to do it on your own computer with `ipython`, and your current working directory should be: `~/git_projects/firstdonoharm/hw1`.
 ```
 import os
 print(cmd)
@@ -75,7 +75,7 @@ print(cmd)
 
 os.system(cmd)
 ```
-After running `os.system(cmd)`, you should find a newly downloaded file `z.html` in your folder `HW1/index_pages`
+After running `os.system(cmd)`, you should find a newly downloaded file `z.html` in your folder `hw1/index_pages`
 
 **STEP 4:**
 Write a python script to do the download automatically
