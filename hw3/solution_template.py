@@ -1,5 +1,5 @@
 # Purpose: extract OTHER NAMES from one detailed HTML page
-# NOTE: make sure that you need to be in folder "hw3" to run this code')
+# NOTE: make sure that you need to be in folder "hw3" to run this code
 
 import os
 import sys

@@ -16,4 +16,6 @@ Vachnag, Vatsnabh, Visha, Wild Aconitum, Wolfsbane, Wutou.
 ```
 The other names of an ingredient will be used to match the ingredients in an Amazon product. An Amazon seller may use a different name for the same ingredient in their product description.
 
-Homework: finish the code for function `extract_other_names_from_html()` in `solution_template.py`, based on what you've learned in the `extract_other_names.ipynb`.
+Homework:
+- Finish the code for function `extract_other_names_from_html()` in `solution_template.py`, based on what you've learned in the `extract_other_names.ipynb`.
+- We are covering a lot of stuff, which could be overwhelming, so please write down as many questions as possible for our next meeting. 
