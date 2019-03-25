@@ -13,4 +13,7 @@ Autumn Monkshood, Bachnag, Bikhma, Blue Monkshood Root, Caowu, Chuanwu,
 Chuan-wu, Fu Zi, Futzu, Helmet Flower, Monkshood, Monkshood Tuber, Prativisha,
 Radix Aconiti, Radix Aconiti Kusnezoffii, Radix Aconiti Lateralis Preparata,
 Vachnag, Vatsnabh, Visha, Wild Aconitum, Wolfsbane, Wutou.
-````
+```
+The other names of an ingredient will be used to match the ingredients in an Amazon product. An Amazon seller may use a different name for the same ingredient in their product description.
+
+Homework: finish the code for function `extract_other_names_from_html()` in `solution_template.py`, based on what you've learned in the `extract_other_names.ipynb`.
