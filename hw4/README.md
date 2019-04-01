@@ -10,5 +10,5 @@ Homework:
 - write a script to download the 1200+ WebMD ingredient pages to folder `hw3/detail_pages`
 
 Optional:
-- extract common other names for each of those ingredients
+- extract other common names for each of those ingredients
 - save the output to a csv file using pandas
