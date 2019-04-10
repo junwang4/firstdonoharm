@@ -7,7 +7,7 @@ For table `ingredient_other_names.csv`, create a new feature, called `top_k_word
 that are the top 5 most frequently used words in the other names.
 For the example, in the case of ingredient `baobab`, the `top_k_word_cnt` should be:
 ```
-{'baobab': 25, 'de': 9, 'adansonia': 7, 'tree': 6, 'fruit': 4}
+[('baobab', 25), ('de', 9), ('adansonia', 7), ('tree', 6), ('fruit', 4)]
 ```
 
 
