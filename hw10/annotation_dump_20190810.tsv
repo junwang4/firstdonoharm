@@ -1,0 +1,919 @@
+keyId	sentId	annotator	label	time
+abuta_1_1-Jun	abuta_1_1	Jun	not side effect	2019-06-02 21:26:11
+abuta_1_1-Kelly	abuta_1_1	Kelly	not side effect	2019-06-02 21:44:39
+abuta_1_2-Jun	abuta_1_2	Jun	not side effect	2019-06-02 21:26:16
+abuta_1_2-Kelly	abuta_1_2	Kelly	not side effect	2019-06-02 21:44:39
+abuta_2_0-Jun	abuta_2_0	Jun	not side effect	2019-06-02 21:26:19
+abuta_2_0-Kelly	abuta_2_0	Kelly	not side effect	2019-06-02 21:44:46
+abuta_2_1-Jun	abuta_2_1	Jun	side effect	2019-06-02 21:26:23
+abuta_2_1-Kelly	abuta_2_1	Kelly	side effect	2019-06-02 21:44:48
+abuta_2_2-Jun	abuta_2_2	Jun	not side effect	2019-06-02 21:26:33
+abuta_2_2-Kelly	abuta_2_2	Kelly	not side effect	2019-06-02 21:44:49
+acacia_1_1-Jun	acacia_1_1	Jun	not side effect	2019-06-02 21:26:36
+acacia_1_1-Kelly	acacia_1_1	Kelly	not side effect	2019-06-02 21:44:50
+acacia_1_2-Jun	acacia_1_2	Jun	not side effect	2019-06-02 21:45:19
+acacia_1_2-Kelly	acacia_1_2	Kelly	not side effect	2019-06-02 21:54:11
+acacia_2_0-Jun	acacia_2_0	Jun	not side effect	2019-06-02 21:45:32
+acacia_2_0-Kelly	acacia_2_0	Kelly	not side effect	2019-06-02 21:44:56
+acacia_2_2-Jun	acacia_2_2	Jun	not side effect	2019-06-02 21:45:39
+acacia_2_2-Kelly	acacia_2_2	Kelly	not side effect	2019-06-02 21:44:58
+acacia_3_0-Jun	acacia_3_0	Jun	not side effect	2019-06-02 21:45:47
+acacia_3_0-Kelly	acacia_3_0	Kelly	not side effect	2019-06-02 21:45:04
+acacia_3_2-Jun	acacia_3_2	Jun	not side effect	2019-06-02 21:45:51
+acacia_3_2-Kelly	acacia_3_2	Kelly	not side effect	2019-06-02 21:45:04
+acacia_4_0-Jun	acacia_4_0	Jun	not side effect	2019-06-02 21:45:52
+acacia_4_0-Kelly	acacia_4_0	Kelly	not side effect	2019-06-02 21:45:05
+acacia_4_1-Jun	acacia_4_1	Jun	not side effect	2019-06-02 21:45:55
+acacia_4_1-Kelly	acacia_4_1	Kelly	not side effect	2019-06-02 21:45:07
+acacia_4_2-Jun	acacia_4_2	Jun	not side effect	2019-06-02 21:45:58
+acacia_4_2-Kelly	acacia_4_2	Kelly	not side effect	2019-06-02 21:54:14
+acacia_5_0-Jun	acacia_5_0	Jun	not side effect	2019-06-02 21:46:00
+acacia_5_0-Kelly	acacia_5_0	Kelly	not side effect	2019-06-02 21:45:17
+acacia_5_1-Jun	acacia_5_1	Jun	not side effect	2019-06-02 21:46:03
+acacia_5_1-Kelly	acacia_5_1	Kelly	not side effect	2019-06-02 21:45:18
+acacia_5_2-Jun	acacia_5_2	Jun	not side effect	2019-06-02 21:46:07
+acacia_5_2-Kelly	acacia_5_2	Kelly	not side effect	2019-06-02 21:54:15
+acacia_5_3-Jun	acacia_5_3	Jun	not side effect	2019-06-02 21:46:23
+acacia_5_3-Kelly	acacia_5_3	Kelly	not side effect	2019-06-02 21:45:24
+acai_1_0-Jun	acai_1_0	Jun	not side effect	2019-06-02 21:46:30
+acai_1_0-Kelly	acai_1_0	Kelly	not side effect	2019-06-02 21:45:25
+acai_1_1-Jun	acai_1_1	Jun	not side effect	2019-06-02 21:46:36
+acai_1_1-Kelly	acai_1_1	Kelly	not side effect	2019-06-02 21:54:18
+acai_4_0-Jun	acai_4_0	Jun	not side effect	2019-06-02 21:46:42
+acai_4_0-Kelly	acai_4_0	Kelly	not side effect	2019-06-02 21:45:30
+acai_4_2-Jun	acai_4_2	Jun	not side effect	2019-06-02 21:46:47
+acai_4_2-Kelly	acai_4_2	Kelly	not side effect	2019-06-02 21:54:21
+acai_5_0-Jun	acai_5_0	Jun	not side effect	2019-06-02 21:46:53
+acai_5_0-Kelly	acai_5_0	Kelly	not side effect	2019-06-02 21:54:23
+acerola_1_0-Jun	acerola_1_0	Jun	skip	2019-06-02 21:47:03
+acerola_1_0-Kelly	acerola_1_0	Kelly	skip	2019-06-02 21:57:34
+acerola_1_2-Jun	acerola_1_2	Jun	not side effect	2019-06-02 21:47:09
+acerola_1_2-Kelly	acerola_1_2	Kelly	not side effect	2019-06-02 21:54:25
+acerola_2_1-Jun	acerola_2_1	Jun	not side effect	2019-06-02 21:47:20
+acerola_2_1-Kelly	acerola_2_1	Kelly	not side effect	2019-06-02 21:45:41
+acerola_2_2-Jun	acerola_2_2	Jun	not side effect	2019-06-02 21:47:23
+acerola_2_2-Kelly	acerola_2_2	Kelly	not side effect	2019-06-02 21:45:42
+acetyl-l-carnitine_1_0-Jun	acetyl-l-carnitine_1_0	Jun	not side effect	2019-06-02 21:47:31
+acetyl-l-carnitine_1_0-Kelly	acetyl-l-carnitine_1_0	Kelly	not side effect	2019-06-02 21:45:45
+acetyl-l-carnitine_1_1-Jun	acetyl-l-carnitine_1_1	Jun	not side effect	2019-06-02 21:47:33
+acetyl-l-carnitine_1_1-Kelly	acetyl-l-carnitine_1_1	Kelly	not side effect	2019-06-02 21:54:27
+acetyl-l-carnitine_1_2-Jun	acetyl-l-carnitine_1_2	Jun	not side effect	2019-06-02 21:47:38
+acetyl-l-carnitine_1_2-Kelly	acetyl-l-carnitine_1_2	Kelly	not side effect	2019-06-02 21:45:48
+acetyl-l-carnitine_1_3-Jun	acetyl-l-carnitine_1_3	Jun	not side effect	2019-06-02 21:47:43
+acetyl-l-carnitine_1_3-Kelly	acetyl-l-carnitine_1_3	Kelly	not side effect	2019-06-02 21:45:49
+acetyl-l-carnitine_2_0-Jun	acetyl-l-carnitine_2_0	Jun	not side effect	2019-06-02 21:47:46
+acetyl-l-carnitine_2_0-Kelly	acetyl-l-carnitine_2_0	Kelly	side effect	2019-06-02 21:45:50
+acetyl-l-carnitine_3_2-Jun	acetyl-l-carnitine_3_2	Jun	not side effect	2019-06-02 21:47:50
+acetyl-l-carnitine_3_2-Kelly	acetyl-l-carnitine_3_2	Kelly	not side effect	2019-06-02 21:45:52
+acetyl-l-carnitine_3_3-Jun	acetyl-l-carnitine_3_3	Jun	not side effect	2019-06-02 21:47:55
+acetyl-l-carnitine_3_3-Kelly	acetyl-l-carnitine_3_3	Kelly	not side effect	2019-06-02 21:45:54
+acetyl-l-carnitine_3_4-Jun	acetyl-l-carnitine_3_4	Jun	not side effect	2019-06-02 21:48:18
+acetyl-l-carnitine_3_4-Kelly	acetyl-l-carnitine_3_4	Kelly	not side effect	2019-06-02 21:45:58
+acetyl-l-carnitine_3_5-Jun	acetyl-l-carnitine_3_5	Jun	not side effect	2019-06-02 21:48:22
+acetyl-l-carnitine_3_5-Kelly	acetyl-l-carnitine_3_5	Kelly	not side effect	2019-06-02 21:45:59
+acetyl-l-carnitine_5_0-Jun	acetyl-l-carnitine_5_0	Jun	not side effect	2019-06-02 21:48:26
+acetyl-l-carnitine_5_0-Kelly	acetyl-l-carnitine_5_0	Kelly	not side effect	2019-06-02 21:54:32
+ackee_2_0-Jun	ackee_2_0	Jun	not side effect	2019-06-02 21:48:30
+ackee_2_0-Kelly	ackee_2_0	Kelly	not side effect	2019-06-02 21:46:02
+aconite_3_0-Jun	aconite_3_0	Jun	side effect	2019-06-02 21:48:33
+aconite_3_0-Kelly	aconite_3_0	Kelly	side effect	2019-06-02 21:46:05
+aconite_4_0-Jun	aconite_4_0	Jun	not side effect	2019-06-02 21:48:38
+aconite_4_0-Kelly	aconite_4_0	Kelly	not side effect	2019-06-02 21:46:06
+aconite_4_1-Jun	aconite_4_1	Jun	not side effect	2019-06-02 21:48:44
+aconite_4_1-Kelly	aconite_4_1	Kelly	not side effect	2019-06-02 21:46:12
+aconite_4_2-Jun	aconite_4_2	Jun	side effect	2019-06-02 21:48:46
+aconite_4_2-Kelly	aconite_4_2	Kelly	side effect	2019-06-02 21:46:12
+aconite_4_3-Jun	aconite_4_3	Jun	not side effect	2019-06-02 21:48:49
+aconite_4_3-Kelly	aconite_4_3	Kelly	not side effect	2019-06-02 21:46:13
+aconite_4_4-Jun	aconite_4_4	Jun	not side effect	2019-06-02 21:48:51
+aconite_4_4-Kelly	aconite_4_4	Kelly	not side effect	2019-06-02 21:46:15
+aconite_4_5-Jun	aconite_4_5	Jun	side effect	2019-06-02 21:49:06
+aconite_4_5-Kelly	aconite_4_5	Kelly	side effect	2019-06-02 21:54:58
+aconite_4_6-Jun	aconite_4_6	Jun	side effect	2019-06-02 21:49:09
+aconite_4_6-Kelly	aconite_4_6	Kelly	side effect	2019-06-02 21:46:18
+aconite_4_7-Jun	aconite_4_7	Jun	not side effect	2019-06-02 21:49:14
+aconite_4_7-Kelly	aconite_4_7	Kelly	not side effect	2019-06-02 21:46:24
+aconite_5_0-Jun	aconite_5_0	Jun	not side effect	2019-06-02 21:49:17
+aconite_5_0-Kelly	aconite_5_0	Kelly	not side effect	2019-06-02 21:55:00
+aconite_5_1-Jun	aconite_5_1	Jun	not side effect	2019-06-02 21:49:19
+aconite_5_1-Kelly	aconite_5_1	Kelly	not side effect	2019-06-02 21:46:29
+activated-charcoal_2_0-Jun	activated-charcoal_2_0	Jun	not side effect	2019-06-02 21:59:29
+activated-charcoal_2_0-Kelly	activated-charcoal_2_0	Kelly	not side effect	2019-06-02 21:46:32
+activated-charcoal_4_0-Jun	activated-charcoal_4_0	Jun	not side effect	2019-06-02 21:49:30
+activated-charcoal_4_0-Kelly	activated-charcoal_4_0	Kelly	not side effect	2019-06-02 21:46:36
+activated-charcoal_4_1-Jun	activated-charcoal_4_1	Jun	side effect	2019-06-02 21:49:46
+activated-charcoal_4_1-Kelly	activated-charcoal_4_1	Kelly	side effect	2019-06-02 21:58:59
+activated-charcoal_5_0-Jun	activated-charcoal_5_0	Jun	not side effect	2019-06-02 21:49:53
+activated-charcoal_5_0-Kelly	activated-charcoal_5_0	Kelly	not side effect	2019-06-02 21:55:03
+activated-charcoal_5_1-Jun	activated-charcoal_5_1	Jun	side effect	2019-06-02 21:49:58
+activated-charcoal_5_1-Kelly	activated-charcoal_5_1	Kelly	not side effect	2019-06-02 21:46:43
+adenosine_1_0-Jun	adenosine_1_0	Jun	not side effect	2019-06-02 21:50:49
+adenosine_1_0-Kelly	adenosine_1_0	Kelly	not side effect	2019-06-02 21:46:48
+adenosine_1_1-Jun	adenosine_1_1	Jun	not side effect	2019-06-02 21:50:52
+adenosine_1_1-Kelly	adenosine_1_1	Kelly	not side effect	2019-06-02 21:46:50
+adenosine_1_2-Jun	adenosine_1_2	Jun	not side effect	2019-06-02 21:50:54
+adenosine_1_2-Kelly	adenosine_1_2	Kelly	not side effect	2019-06-02 21:46:51
+adenosine_1_3-Jun	adenosine_1_3	Jun	side effect	2019-06-02 21:51:05
+adenosine_1_3-Kelly	adenosine_1_3	Kelly	side effect	2019-06-02 22:00:59
+adenosine_1_4-Jun	adenosine_1_4	Jun	not side effect	2019-06-02 21:51:14
+adenosine_1_4-Kelly	adenosine_1_4	Kelly	not side effect	2019-06-02 21:46:54
+adenosine_1_5-Jun	adenosine_1_5	Jun	side effect	2019-06-02 21:51:21
+adenosine_1_5-Kelly	adenosine_1_5	Kelly	side effect	2019-06-02 21:48:50
+adenosine_1_7-Jun	adenosine_1_7	Jun	side effect	2019-06-02 21:51:29
+adenosine_1_7-Kelly	adenosine_1_7	Kelly	side effect	2019-06-02 21:55:41
+adenosine_2_0-Jun	adenosine_2_0	Jun	side effect	2019-06-02 21:51:34
+adenosine_2_0-Kelly	adenosine_2_0	Kelly	not side effect	2019-06-02 21:47:05
+adenosine_2_1-Jun	adenosine_2_1	Jun	not side effect	2019-06-02 21:51:40
+adenosine_2_1-Kelly	adenosine_2_1	Kelly	not side effect	2019-06-02 21:47:06
+adenosine_3_0-Jun	adenosine_3_0	Jun	side effect	2019-06-02 21:51:49
+adenosine_3_0-Kelly	adenosine_3_0	Kelly	not side effect	2019-06-02 21:47:10
+adenosine_3_1-Jun	adenosine_3_1	Jun	side effect	2019-06-02 21:51:55
+adenosine_3_1-Kelly	adenosine_3_1	Kelly	side effect	2019-06-02 21:48:52
+adenosine_5_0-Jun	adenosine_5_0	Jun	side effect	2019-06-02 21:51:59
+adenosine_5_0-Kelly	adenosine_5_0	Kelly	not side effect	2019-06-02 21:49:22
+adenosine_5_1-Jun	adenosine_5_1	Jun	not side effect	2019-06-02 21:52:01
+adenosine_5_1-Kelly	adenosine_5_1	Kelly	not side effect	2019-06-02 21:49:47
+adenosine_5_2-Kelly	adenosine_5_2	Kelly	not side effect	2019-06-02 21:49:48
+adenosine_5_3-Kelly	adenosine_5_3	Kelly	side effect	2019-06-02 21:48:58
+adenosine_5_4-Kelly	adenosine_5_4	Kelly	not side effect	2019-06-02 21:49:50
+adenosine_5_5-Kelly	adenosine_5_5	Kelly	side effect	2019-06-02 21:49:06
+adenosine_5_6-Kelly	adenosine_5_6	Kelly	side effect	2019-06-02 21:49:05
+adenosine_5_7-Kelly	adenosine_5_7	Kelly	not side effect	2019-06-02 21:49:08
+adenosine_5_8-Kelly	adenosine_5_8	Kelly	not side effect	2019-06-02 21:49:10
+adrenal-extract_1_0-Kelly	adrenal-extract_1_0	Kelly	side effect	2019-06-02 21:49:58
+adrenal-extract_2_0-Kelly	adrenal-extract_2_0	Kelly	not side effect	2019-06-02 21:49:59
+adrenal-extract_2_1-Kelly	adrenal-extract_2_1	Kelly	side effect	2019-06-02 21:50:00
+adrenal-extract_2_2-Kelly	adrenal-extract_2_2	Kelly	side effect	2019-06-02 21:50:04
+adrenal-extract_2_3-Kelly	adrenal-extract_2_3	Kelly	not side effect	2019-06-02 21:50:05
+adrenal-extract_2_4-Kelly	adrenal-extract_2_4	Kelly	not side effect	2019-06-02 21:50:08
+adrenal-extract_2_5-Kelly	adrenal-extract_2_5	Kelly	side effect	2019-06-02 21:50:09
+adrenal-extract_3_0-Kelly	adrenal-extract_3_0	Kelly	not side effect	2019-06-02 21:50:12
+adrenal-extract_3_1-Kelly	adrenal-extract_3_1	Kelly	not side effect	2019-06-02 21:50:15
+adrenal-extract_3_3-Kelly	adrenal-extract_3_3	Kelly	not side effect	2019-06-02 21:50:17
+adrenal-extract_4_0-Kelly	adrenal-extract_4_0	Kelly	not side effect	2019-06-02 21:50:37
+adrenal-extract_4_1-Kelly	adrenal-extract_4_1	Kelly	side effect	2019-06-02 21:50:38
+adrenal-extract_4_2-Kelly	adrenal-extract_4_2	Kelly	not side effect	2019-06-02 21:50:40
+adrenal-extract_4_3-Kelly	adrenal-extract_4_3	Kelly	not side effect	2019-06-02 21:50:46
+adrenal-extract_5_0-Kelly	adrenal-extract_5_0	Kelly	side effect	2019-06-02 21:50:47
+african-wild-potato_1_0-Kelly	african-wild-potato_1_0	Kelly	not side effect	2019-06-02 21:50:50
+african-wild-potato_1_1-Jun	african-wild-potato_1_1	Jun		2019-06-09 15:18:49
+african-wild-potato_1_1-Kelly	african-wild-potato_1_1	Kelly	not side effect	2019-06-02 21:50:51
+african-wild-potato_1_2-Kelly	african-wild-potato_1_2	Kelly	not side effect	2019-06-02 21:50:53
+african-wild-potato_1_3-Kelly	african-wild-potato_1_3	Kelly	not side effect	2019-06-02 22:03:23
+african-wild-potato_1_4-Kelly	african-wild-potato_1_4	Kelly	not side effect	2019-06-02 21:50:57
+agaricus-mushroom_2_0-Kelly	agaricus-mushroom_2_0	Kelly	not side effect	2019-06-02 22:03:28
+agar_1_2-Kelly	agar_1_2	Kelly	not side effect	2019-06-02 21:51:02
+agar_1_3-Kelly	agar_1_3	Kelly	not side effect	2019-06-02 21:51:03
+agar_1_8-Kelly	agar_1_8	Kelly	not side effect	2019-06-02 21:51:04
+agar_1_9-Kelly	agar_1_9	Kelly	not side effect	2019-06-02 21:51:05
+ahcc_1_0-Kelly	ahcc_1_0	Kelly	not side effect	2019-06-02 21:51:07
+ahcc_1_1-Kelly	ahcc_1_1	Kelly	not side effect	2019-06-02 21:51:08
+ahcc_1_2-Kelly	ahcc_1_2	Kelly	not side effect	2019-06-02 21:51:09
+ahcc_1_3-Kelly	ahcc_1_3	Kelly	not side effect	2019-06-02 22:03:32
+ahcc_2_0-Kelly	ahcc_2_0	Kelly	not side effect	2019-06-02 21:51:12
+ahcc_2_1-Kelly	ahcc_2_1	Kelly	not side effect	2019-06-02 22:03:33
+ahcc_2_2-Kelly	ahcc_2_2	Kelly	not side effect	2019-06-02 21:51:16
+ahcc_3_0-Kelly	ahcc_3_0	Kelly	not side effect	2019-06-02 21:51:19
+ahcc_3_1-Kelly	ahcc_3_1	Kelly	not side effect	2019-06-02 22:03:38
+ahcc_3_2-Kelly	ahcc_3_2	Kelly	not side effect	2019-06-02 21:51:22
+ahcc_3_4-Kelly	ahcc_3_4	Kelly	side effect	2019-06-02 21:51:24
+ahcc_3_5-Kelly	ahcc_3_5	Kelly	not side effect	2019-06-02 21:51:25
+ahcc_3_6-Kelly	ahcc_3_6	Kelly	not side effect	2019-06-02 21:51:26
+ahcc_3_7-Kelly	ahcc_3_7	Kelly	not side effect	2019-06-02 21:51:38
+ahcc_4_0-Kelly	ahcc_4_0	Kelly	side effect	2019-06-02 21:51:36
+ahcc_4_1-Kelly	ahcc_4_1	Kelly	not side effect	2019-06-02 21:51:41
+alfalfa_3_0-Kelly	alfalfa_3_0	Kelly	side effect	2019-06-02 21:51:42
+algin_1_0-Kelly	algin_1_0	Kelly	not side effect	2019-06-02 21:51:44
+algin_1_3-Kelly	algin_1_3	Kelly	not side effect	2019-06-02 21:51:48
+algin_1_4-Kelly	algin_1_4	Kelly	not side effect	2019-06-02 21:51:50
+algin_1_5-Kelly	algin_1_5	Kelly	not side effect	2019-06-02 21:51:52
+aloe_1_0-Kelly	aloe_1_0	Kelly	side effect	2019-06-02 21:51:53
+aloe_2_0-Kelly	aloe_2_0	Kelly	not side effect	2019-06-02 21:51:55
+aloe_2_1-Kelly	aloe_2_1	Kelly	not side effect	2019-06-02 21:51:59
+aloe_3_0-Kelly	aloe_3_0	Kelly	not side effect	2019-06-02 21:52:01
+aloe_3_1-Kelly	aloe_3_1	Kelly	not side effect	2019-06-02 21:52:02
+aloe_3_2-Kelly	aloe_3_2	Kelly	not side effect	2019-06-02 21:52:03
+aloe_4_0-Kelly	aloe_4_0	Kelly	not side effect	2019-06-02 21:52:05
+aloe_4_1-Kelly	aloe_4_1	Kelly	side effect	2019-06-02 21:52:06
+aloe_4_2-Kelly	aloe_4_2	Kelly	side effect	2019-06-02 21:52:09
+aloe_4_3-Kelly	aloe_4_3	Kelly	not side effect	2019-06-02 21:52:12
+alpha-gpc_2_0-Kelly	alpha-gpc_2_0	Kelly	not side effect	2019-06-02 22:04:26
+alpha-gpc_2_1-Kelly	alpha-gpc_2_1	Kelly	not side effect	2019-06-02 22:04:27
+alpha-gpc_2_3-Kelly	alpha-gpc_2_3	Kelly	not side effect	2019-06-02 22:04:29
+alpha-gpc_2_4-Kelly	alpha-gpc_2_4	Kelly	side effect	2019-06-02 22:04:32
+alpha-gpc_2_5-Kelly	alpha-gpc_2_5	Kelly	not side effect	2019-06-02 22:04:33
+alpha-gpc_3_0-Kelly	alpha-gpc_3_0	Kelly	not side effect	2019-06-02 22:04:34
+alpha-gpc_5_0-Kelly	alpha-gpc_5_0	Kelly	side effect	2019-06-02 22:04:37
+alpha-gpc_5_1-Jun	alpha-gpc_5_1	Jun		2019-06-19 09:59:09
+alpha-gpc_5_1-Kelly	alpha-gpc_5_1	Kelly	not side effect	2019-06-19 09:59:59
+alpha-gpc_5_2-Kelly	alpha-gpc_5_2	Kelly	not side effect	2019-06-19 10:00:01
+alpha-gpc_5_3-Kelly	alpha-gpc_5_3	Kelly	not side effect	2019-06-19 10:00:02
+alpha-hydroxy-acids_1_1-Kelly	alpha-hydroxy-acids_1_1	Kelly	not side effect	2019-06-19 10:00:05
+alpha-hydroxy-acids_1_2-Kelly	alpha-hydroxy-acids_1_2	Kelly	not side effect	2019-06-19 10:00:06
+alpha-hydroxy-acids_2_0-Kelly	alpha-hydroxy-acids_2_0	Kelly	not side effect	2019-06-19 10:00:08
+alpha-hydroxy-acids_2_1-Kelly	alpha-hydroxy-acids_2_1	Kelly	not side effect	2019-06-19 10:00:11
+alpha-hydroxy-acids_2_2-Kelly	alpha-hydroxy-acids_2_2	Kelly	not side effect	2019-06-19 10:00:12
+alpha-hydroxy-acids_2_5-Kelly	alpha-hydroxy-acids_2_5	Kelly	not side effect	2019-06-19 10:00:14
+alpha-hydroxy-acids_2_6-Kelly	alpha-hydroxy-acids_2_6	Kelly	not side effect	2019-06-19 10:00:15
+alpha-hydroxy-acids_3_0-Kelly	alpha-hydroxy-acids_3_0	Kelly	not side effect	2019-06-19 10:00:19
+alpha-hydroxy-acids_3_2-Kelly	alpha-hydroxy-acids_3_2	Kelly	not side effect	2019-06-19 10:00:22
+alpha-ketoglutarate_2_0-Kelly	alpha-ketoglutarate_2_0	Kelly	not side effect	2019-06-19 10:00:23
+alpha-ketoglutarate_2_3-Kelly	alpha-ketoglutarate_2_3	Kelly	not side effect	2019-06-19 10:00:25
+alpha-ketoglutarate_2_4-Kelly	alpha-ketoglutarate_2_4	Kelly	not side effect	2019-06-19 10:00:27
+alpha-ketoglutarate_2_5-Kelly	alpha-ketoglutarate_2_5	Kelly	not side effect	2019-06-19 10:00:29
+alpha-ketoglutarate_4_0-Kelly	alpha-ketoglutarate_4_0	Kelly	not side effect	2019-06-19 10:00:33
+alpha-ketoglutarate_4_1-Kelly	alpha-ketoglutarate_4_1	Kelly	not side effect	2019-06-19 10:00:34
+alpha-ketoglutarate_4_2-Kelly	alpha-ketoglutarate_4_2	Kelly	not side effect	2019-06-19 10:00:36
+alpha-ketoglutarate_4_3-Kelly	alpha-ketoglutarate_4_3	Kelly	not side effect	2019-06-19 10:00:37
+alpha-ketoglutarate_5_0-Kelly	alpha-ketoglutarate_5_0	Kelly	not side effect	2019-06-19 10:00:40
+alpha-ketoglutarate_5_1-Kelly	alpha-ketoglutarate_5_1	Kelly	not side effect	2019-06-19 10:00:41
+alpha-ketoglutarate_5_3-Kelly	alpha-ketoglutarate_5_3	Kelly	not side effect	2019-06-19 10:00:43
+alpha-ketoglutarate_5_4-Kelly	alpha-ketoglutarate_5_4	Kelly	not side effect	2019-06-19 10:00:45
+alpha-ketoglutarate_5_5-Kelly	alpha-ketoglutarate_5_5	Kelly	not side effect	2019-06-19 10:00:46
+alpha-ketoglutarate_5_6-Kelly	alpha-ketoglutarate_5_6	Kelly	not side effect	2019-06-19 10:00:48
+alpha-ketoglutarate_5_7-Kelly	alpha-ketoglutarate_5_7	Kelly	not side effect	2019-06-19 10:01:03
+alpha-linolenic-acid_2_0-Kelly	alpha-linolenic-acid_2_0	Kelly	not side effect	2019-06-19 10:01:04
+alpha-linolenic-acid_5_0-Kelly	alpha-linolenic-acid_5_0	Kelly	not side effect	2019-06-19 10:01:13
+alpha-linolenic-acid_5_1-Kelly	alpha-linolenic-acid_5_1	Kelly	not side effect	2019-06-19 10:01:15
+alpha-lipoic-acid_1_0-Kelly	alpha-lipoic-acid_1_0	Kelly	not side effect	2019-06-19 10:01:18
+alpha-lipoic-acid_1_1-Kelly	alpha-lipoic-acid_1_1	Kelly	side effect	2019-06-19 10:01:27
+alpha-lipoic-acid_1_2-Kelly	alpha-lipoic-acid_1_2	Kelly	side effect	2019-06-19 10:01:27
+alpha-lipoic-acid_1_4-Kelly	alpha-lipoic-acid_1_4	Kelly	side effect	2019-06-19 10:01:29
+alpha-lipoic-acid_2_0-Kelly	alpha-lipoic-acid_2_0	Kelly	not side effect	2019-06-19 10:01:32
+alpha-lipoic-acid_2_1-Kelly	alpha-lipoic-acid_2_1	Kelly	not side effect	2019-06-19 10:01:33
+alpha-lipoic-acid_4_0-Kelly	alpha-lipoic-acid_4_0	Kelly	not side effect	2019-06-19 10:01:45
+alpha-lipoic-acid_4_1-Kelly	alpha-lipoic-acid_4_1	Kelly	not side effect	2019-06-19 10:01:40
+alpha-lipoic-acid_4_2-Kelly	alpha-lipoic-acid_4_2	Kelly	not side effect	2019-06-19 10:01:42
+amaranth_1_0-Kelly	amaranth_1_0	Kelly	not side effect	2019-06-19 10:14:58
+american-pawpaw_1_0-Kelly	american-pawpaw_1_0	Kelly	not side effect	2019-06-19 10:14:58
+american-pawpaw_1_1-Kelly	american-pawpaw_1_1	Kelly	not side effect	2019-06-19 10:14:58
+american-pawpaw_2_0-Kelly	american-pawpaw_2_0	Kelly	not side effect	2019-06-19 10:14:58
+american-pawpaw_2_1-Kelly	american-pawpaw_2_1	Kelly	not side effect	2019-06-19 10:14:59
+american-pawpaw_2_3-Kelly	american-pawpaw_2_3	Kelly	not side effect	2019-06-19 10:15:02
+american-pawpaw_2_4-Kelly	american-pawpaw_2_4	Kelly	not side effect	2019-06-19 10:15:04
+american-pawpaw_3_0-Kelly	american-pawpaw_3_0	Kelly	not side effect	2019-06-19 10:15:05
+american-pawpaw_3_1-Kelly	american-pawpaw_3_1	Kelly	not side effect	2019-06-19 10:15:09
+american-pawpaw_3_2-Kelly	american-pawpaw_3_2	Kelly	not side effect	2019-06-19 10:15:11
+american-pawpaw_3_3-Kelly	american-pawpaw_3_3	Kelly	not side effect	2019-06-19 10:15:13
+american-pawpaw_3_4-Kelly	american-pawpaw_3_4	Kelly	not side effect	2019-06-19 10:15:14
+american-pawpaw_3_5-Kelly	american-pawpaw_3_5	Kelly	not side effect	2019-06-19 10:15:17
+american-pawpaw_4_0-Kelly	american-pawpaw_4_0	Kelly	not side effect	2019-06-19 10:15:20
+american-pawpaw_4_1-Kelly	american-pawpaw_4_1	Kelly	not side effect	2019-06-19 10:15:22
+american-pawpaw_4_2-Kelly	american-pawpaw_4_2	Kelly	not side effect	2019-06-19 10:15:24
+american-pawpaw_4_3-Kelly	american-pawpaw_4_3	Kelly	not side effect	2019-06-19 10:15:25
+american-pawpaw_4_4-Kelly	american-pawpaw_4_4	Kelly	not side effect	2019-06-19 10:15:26
+american-pawpaw_4_5-Kelly	american-pawpaw_4_5	Kelly	not side effect	2019-06-19 10:15:27
+american-pawpaw_5_1-Kelly	american-pawpaw_5_1	Kelly	side effect	2019-06-19 10:19:37
+american-pawpaw_5_10-Kelly	american-pawpaw_5_10	Kelly	not side effect	2019-06-19 10:15:30
+american-pawpaw_5_11-Kelly	american-pawpaw_5_11	Kelly	not side effect	2019-06-19 10:15:32
+american-pawpaw_5_12-Kelly	american-pawpaw_5_12	Kelly	not side effect	2019-06-19 10:15:34
+american-pawpaw_5_13-Kelly	american-pawpaw_5_13	Kelly	not side effect	2019-06-19 10:15:35
+american-pawpaw_5_15-Kelly	american-pawpaw_5_15	Kelly	not side effect	2019-06-19 10:15:42
+american-pawpaw_5_2-Kelly	american-pawpaw_5_2	Kelly	side effect	2019-06-19 10:15:53
+american-pawpaw_5_7-Kelly	american-pawpaw_5_7	Kelly	not side effect	2019-06-19 10:15:44
+american-pawpaw_5_9-Kelly	american-pawpaw_5_9	Kelly	side effect	2019-06-19 10:15:48
+andrographis_1_0-Kelly	andrographis_1_0	Kelly	not side effect	2019-06-19 10:16:03
+andrographis_1_2-Kelly	andrographis_1_2	Kelly	not side effect	2019-06-19 10:16:04
+andrographis_1_3-Kelly	andrographis_1_3	Kelly	side effect	2019-06-19 10:16:04
+andrographis_2_0-Kelly	andrographis_2_0	Kelly	not side effect	2019-06-19 10:16:06
+andrographis_2_1-Kelly	andrographis_2_1	Kelly	not side effect	2019-06-19 10:16:07
+andrographis_2_2-Kelly	andrographis_2_2	Kelly	not side effect	2019-06-19 10:16:08
+andrographis_2_3-Kelly	andrographis_2_3	Kelly	not side effect	2019-06-19 10:16:09
+andrographis_3_0-Kelly	andrographis_3_0	Kelly	not side effect	2019-06-19 10:16:10
+andrographis_3_1-Kelly	andrographis_3_1	Kelly	not side effect	2019-06-19 10:16:12
+andrographis_3_2-Kelly	andrographis_3_2	Kelly	not side effect	2019-06-19 10:16:13
+andrographis_3_3-Kelly	andrographis_3_3	Kelly	not side effect	2019-06-19 10:16:15
+andrographis_3_4-Kelly	andrographis_3_4	Kelly	not side effect	2019-06-19 10:16:16
+androstenediol_1_0-Kelly	androstenediol_1_0	Kelly	not side effect	2019-06-19 10:16:17
+androstenediol_1_1-Kelly	androstenediol_1_1	Kelly	not side effect	2019-06-19 10:16:18
+androstenediol_1_2-Kelly	androstenediol_1_2	Kelly	not side effect	2019-06-19 10:16:21
+androstenediol_1_3-Kelly	androstenediol_1_3	Kelly	not side effect	2019-06-19 10:17:51
+androstenediol_1_4-Kelly	androstenediol_1_4	Kelly	not side effect	2019-06-19 10:17:51
+androstenediol_1_5-Kelly	androstenediol_1_5	Kelly	not side effect	2019-06-19 10:17:52
+androstenediol_1_6-Kelly	androstenediol_1_6	Kelly	side effect	2019-06-19 10:17:52
+androstenediol_1_7-Kelly	androstenediol_1_7	Kelly	not side effect	2019-06-19 10:17:53
+androstenediol_1_8-Kelly	androstenediol_1_8	Kelly	not side effect	2019-06-19 10:17:54
+androstenediol_1_9-Kelly	androstenediol_1_9	Kelly	not side effect	2019-06-19 10:17:55
+androstenedione_1_0-Kelly	androstenedione_1_0	Kelly	not side effect	2019-06-19 10:18:14
+androstenedione_2_1-Kelly	androstenedione_2_1	Kelly	not side effect	2019-06-19 10:18:15
+androstenedione_2_2-Kelly	androstenedione_2_2	Kelly	not side effect	2019-06-19 10:18:18
+androstenedione_2_3-Kelly	androstenedione_2_3	Kelly	not side effect	2019-06-19 10:18:20
+androstenedione_2_4-Kelly	androstenedione_2_4	Kelly	not side effect	2019-06-19 10:18:35
+androstenedione_2_5-Kelly	androstenedione_2_5	Kelly	not side effect	2019-06-19 10:18:36
+androstenedione_3_0-Kelly	androstenedione_3_0	Kelly	not side effect	2019-06-19 10:18:38
+androstenedione_3_1-Kelly	androstenedione_3_1	Kelly	not side effect	2019-06-19 10:18:39
+androstenedione_3_2-Kelly	androstenedione_3_2	Kelly	not side effect	2019-06-19 10:18:44
+androstenedione_3_3-Kelly	androstenedione_3_3	Kelly	not side effect	2019-06-19 10:18:45
+androstenedione_3_4-Kelly	androstenedione_3_4	Kelly	not side effect	2019-06-19 10:18:47
+androstenedione_3_6-Kelly	androstenedione_3_6	Kelly	side effect	2019-06-19 10:18:51
+androstenedione_3_8-Kelly	androstenedione_3_8	Kelly	side effect	2019-06-19 10:18:53
+angelica_1_0-Kelly	angelica_1_0	Kelly	not side effect	2019-06-19 10:24:01
+angelica_1_1-Kelly	angelica_1_1	Kelly	not side effect	2019-06-19 10:24:02
+angelica_1_2-Kelly	angelica_1_2	Kelly	not side effect	2019-06-19 10:24:02
+angelica_1_3-Kelly	angelica_1_3	Kelly	not side effect	2019-06-19 10:24:03
+angelica_1_4-Kelly	angelica_1_4	Kelly	not side effect	2019-06-19 10:24:04
+angelica_1_5-Kelly	angelica_1_5	Kelly	not side effect	2019-06-19 10:24:06
+angelica_1_6-Kelly	angelica_1_6	Kelly	not side effect	2019-06-19 10:24:08
+angelica_2_0-Kelly	angelica_2_0	Kelly	not side effect	2019-06-19 10:24:09
+angelica_2_2-Kelly	angelica_2_2	Kelly	not side effect	2019-06-19 10:24:10
+angelica_2_3-Kelly	angelica_2_3	Kelly	side effect	2019-06-19 10:24:21
+angelica_3_0-Kelly	angelica_3_0	Kelly	not side effect	2019-06-19 10:24:22
+angelica_4_0-Kelly	angelica_4_0	Kelly	not side effect	2019-06-19 10:24:32
+angelica_5_0-Kelly	angelica_5_0	Kelly	not side effect	2019-06-19 10:24:33
+angels-trumpet_1_0-Kelly	angels-trumpet_1_0	Kelly	side effect	2019-06-19 10:24:46
+angels-trumpet_1_1-Kelly	angels-trumpet_1_1	Kelly	side effect	2019-06-19 10:24:47
+angels-trumpet_1_2-Kelly	angels-trumpet_1_2	Kelly	not side effect	2019-06-19 10:24:51
+angels-trumpet_1_3-Kelly	angels-trumpet_1_3	Kelly	not side effect	2019-06-19 10:24:54
+angels-trumpet_2_0-Kelly	angels-trumpet_2_0	Kelly	not side effect	2019-06-19 10:24:56
+angostura_1_1-Kelly	angostura_1_1	Kelly	not side effect	2019-06-19 10:25:07
+anise_3_0-Kelly	anise_3_0	Kelly	not side effect	2019-06-19 10:27:23
+anise_4_1-Kelly	anise_4_1	Kelly	not side effect	2019-06-19 10:27:26
+anise_4_2-Kelly	anise_4_2	Kelly	not side effect	2019-06-19 10:27:29
+anise_4_3-Kelly	anise_4_3	Kelly	not side effect	2019-06-19 10:27:31
+anise_4_4-Kelly	anise_4_4	Kelly	not side effect	2019-06-19 10:27:32
+annatto_1_0-Kelly	annatto_1_0	Kelly	not side effect	2019-06-19 10:27:34
+annatto_1_1-Kelly	annatto_1_1	Kelly	not side effect	2019-06-19 10:27:35
+annatto_1_2-Kelly	annatto_1_2	Kelly	not side effect	2019-06-19 10:27:37
+annatto_1_3-Kelly	annatto_1_3	Kelly	not side effect	2019-06-19 10:27:48
+annatto_1_4-Kelly	annatto_1_4	Kelly	not side effect	2019-06-19 10:27:50
+annatto_2_0-Kelly	annatto_2_0	Kelly	not side effect	2019-06-19 10:27:54
+annatto_2_1-Kelly	annatto_2_1	Kelly	not side effect	2019-06-19 10:27:57
+annatto_2_2-Kelly	annatto_2_2	Kelly	not side effect	2019-06-19 10:27:58
+annatto_2_3-Kelly	annatto_2_3	Kelly	not side effect	2019-06-19 10:28:03
+annatto_3_1-Kelly	annatto_3_1	Kelly	not side effect	2019-06-19 10:28:15
+annatto_3_2-Kelly	annatto_3_2	Kelly	not side effect	2019-06-19 10:28:17
+annatto_5_2-Kelly	annatto_5_2	Kelly	side effect	2019-06-19 10:28:24
+apoaequorin_1_0-Kelly	apoaequorin_1_0	Kelly	not side effect	2019-06-19 10:28:25
+apoaequorin_1_1-Kelly	apoaequorin_1_1	Kelly	not side effect	2019-06-19 10:28:26
+apoaequorin_1_10-Kelly	apoaequorin_1_10	Kelly	side effect	2019-06-19 10:28:44
+apoaequorin_1_11-Kelly	apoaequorin_1_11	Kelly	not side effect	2019-06-19 10:28:45
+apoaequorin_1_12-Kelly	apoaequorin_1_12	Kelly	not side effect	2019-06-19 10:28:46
+apoaequorin_1_13-Kelly	apoaequorin_1_13	Kelly	not side effect	2019-06-19 10:28:47
+apoaequorin_1_15-Kelly	apoaequorin_1_15	Kelly	not side effect	2019-06-19 10:28:48
+apoaequorin_1_3-Kelly	apoaequorin_1_3	Kelly	not side effect	2019-06-19 10:28:49
+apoaequorin_1_4-Kelly	apoaequorin_1_4	Kelly	side effect	2019-06-19 10:28:58
+apoaequorin_1_5-Kelly	apoaequorin_1_5	Kelly	not side effect	2019-06-19 10:28:59
+apoaequorin_1_6-Kelly	apoaequorin_1_6	Kelly	side effect	2019-06-19 10:29:02
+apoaequorin_1_7-Kelly	apoaequorin_1_7	Kelly	not side effect	2019-06-19 10:29:03
+apoaequorin_2_1-Kelly	apoaequorin_2_1	Kelly	not side effect	2019-06-19 10:29:05
+apoaequorin_2_2-Kelly	apoaequorin_2_2	Kelly	not side effect	2019-06-19 10:29:06
+apoaequorin_3_0-Kelly	apoaequorin_3_0	Kelly	not side effect	2019-06-19 10:29:06
+apoaequorin_3_1-Kelly	apoaequorin_3_1	Kelly	not side effect	2019-06-19 10:29:09
+apoaequorin_3_10-Kelly	apoaequorin_3_10	Kelly	not side effect	2019-06-19 10:29:19
+apoaequorin_3_11-Kelly	apoaequorin_3_11	Kelly	not side effect	2019-06-19 10:29:20
+apoaequorin_3_12-Kelly	apoaequorin_3_12	Kelly	not side effect	2019-06-19 10:29:20
+apoaequorin_3_13-Kelly	apoaequorin_3_13	Kelly	not side effect	2019-06-19 10:29:22
+apoaequorin_3_2-Kelly	apoaequorin_3_2	Kelly	not side effect	2019-06-19 10:29:23
+apoaequorin_3_3-Kelly	apoaequorin_3_3	Kelly	not side effect	2019-06-19 10:29:24
+apoaequorin_3_4-Kelly	apoaequorin_3_4	Kelly	not side effect	2019-06-19 10:29:26
+apoaequorin_3_5-Kelly	apoaequorin_3_5	Kelly	not side effect	2019-06-19 10:29:27
+apoaequorin_3_6-Kelly	apoaequorin_3_6	Kelly	not side effect	2019-06-19 10:29:31
+apoaequorin_3_7-Kelly	apoaequorin_3_7	Kelly	side effect	2019-06-19 10:29:31
+apoaequorin_3_8-Kelly	apoaequorin_3_8	Kelly	not side effect	2019-06-19 10:29:33
+apoaequorin_3_9-Kelly	apoaequorin_3_9	Kelly	not side effect	2019-06-19 10:29:35
+apoaequorin_4_1-Kelly	apoaequorin_4_1	Kelly	side effect	2019-06-19 10:29:40
+apoaequorin_5_1-Kelly	apoaequorin_5_1	Kelly	not side effect	2019-06-19 10:29:47
+apoaequorin_5_10-Kelly	apoaequorin_5_10	Kelly	not side effect	2019-06-19 10:30:01
+apoaequorin_5_11-Kelly	apoaequorin_5_11	Kelly	not side effect	2019-06-19 10:30:02
+apoaequorin_5_12-Kelly	apoaequorin_5_12	Kelly	not side effect	2019-06-19 10:30:02
+apoaequorin_5_13-Kelly	apoaequorin_5_13	Kelly	not side effect	2019-06-19 10:30:04
+apoaequorin_5_14-Kelly	apoaequorin_5_14	Kelly	not side effect	2019-06-19 10:30:05
+apoaequorin_5_15-Kelly	apoaequorin_5_15	Kelly	not side effect	2019-06-19 10:30:06
+apoaequorin_5_2-Kelly	apoaequorin_5_2	Kelly	not side effect	2019-06-19 10:30:08
+apoaequorin_5_3-Kelly	apoaequorin_5_3	Kelly	not side effect	2019-06-19 10:30:11
+apoaequorin_5_4-Kelly	apoaequorin_5_4	Kelly	not side effect	2019-06-19 10:30:12
+apoaequorin_5_5-Kelly	apoaequorin_5_5	Kelly	not side effect	2019-06-19 10:30:12
+apoaequorin_5_6-Kelly	apoaequorin_5_6	Kelly	not side effect	2019-06-19 10:30:14
+apoaequorin_5_7-Kelly	apoaequorin_5_7	Kelly	not side effect	2019-06-19 10:30:15
+apoaequorin_5_8-Kelly	apoaequorin_5_8	Kelly	not side effect	2019-06-19 10:30:17
+apoaequorin_5_9-Kelly	apoaequorin_5_9	Kelly	not side effect	2019-06-19 10:30:18
+apple-cider-vinegar_1_0-Kelly	apple-cider-vinegar_1_0	Kelly	not side effect	2019-06-19 10:30:21
+apple-cider-vinegar_1_1-Kelly	apple-cider-vinegar_1_1	Kelly	not side effect	2019-06-19 10:30:23
+apple-cider-vinegar_1_2-Kelly	apple-cider-vinegar_1_2	Kelly	not side effect	2019-06-19 10:30:24
+apple-cider-vinegar_1_3-Kelly	apple-cider-vinegar_1_3	Kelly	side effect	2019-06-19 10:30:43
+apple-cider-vinegar_1_4-Kelly	apple-cider-vinegar_1_4	Kelly	not side effect	2019-06-19 10:30:33
+apple-cider-vinegar_2_0-Kelly	apple-cider-vinegar_2_0	Kelly	not side effect	2019-06-19 10:30:43
+apple-cider-vinegar_2_1-Kelly	apple-cider-vinegar_2_1	Kelly	not side effect	2019-06-19 10:30:44
+apple-cider-vinegar_2_10-Kelly	apple-cider-vinegar_2_10	Kelly	not side effect	2019-06-19 10:30:46
+apple-cider-vinegar_2_11-Kelly	apple-cider-vinegar_2_11	Kelly	not side effect	2019-06-19 10:30:49
+apple-cider-vinegar_2_12-Kelly	apple-cider-vinegar_2_12	Kelly	not side effect	2019-06-19 10:30:50
+apple-cider-vinegar_2_13-Kelly	apple-cider-vinegar_2_13	Kelly	not side effect	2019-06-19 10:30:51
+apple-cider-vinegar_2_14-Kelly	apple-cider-vinegar_2_14	Kelly	not side effect	2019-06-19 10:30:52
+apple-cider-vinegar_2_15-Kelly	apple-cider-vinegar_2_15	Kelly	not side effect	2019-06-19 10:30:53
+apple-cider-vinegar_2_2-Kelly	apple-cider-vinegar_2_2	Kelly	not side effect	2019-06-19 10:30:55
+apple-cider-vinegar_2_3-Kelly	apple-cider-vinegar_2_3	Kelly	not side effect	2019-06-19 10:30:56
+apple-cider-vinegar_2_4-Kelly	apple-cider-vinegar_2_4	Kelly	not side effect	2019-06-19 10:30:57
+apple-cider-vinegar_2_5-Kelly	apple-cider-vinegar_2_5	Kelly	not side effect	2019-06-19 10:30:58
+apple-cider-vinegar_2_6-Kelly	apple-cider-vinegar_2_6	Kelly	not side effect	2019-06-19 10:31:01
+apple-cider-vinegar_2_7-Kelly	apple-cider-vinegar_2_7	Kelly	not side effect	2019-06-19 10:31:02
+apple-cider-vinegar_2_8-Kelly	apple-cider-vinegar_2_8	Kelly	not side effect	2019-06-19 10:31:03
+apple-cider-vinegar_2_9-Kelly	apple-cider-vinegar_2_9	Kelly	not side effect	2019-06-19 10:31:05
+apple-cider-vinegar_3_0-Kelly	apple-cider-vinegar_3_0	Kelly	not side effect	2019-06-19 10:31:07
+apple-cider-vinegar_3_11-Kelly	apple-cider-vinegar_3_11	Kelly	not side effect	2019-06-19 10:31:08
+apple-cider-vinegar_3_4-Kelly	apple-cider-vinegar_3_4	Kelly	not side effect	2019-06-19 10:31:11
+apple-cider-vinegar_3_5-Kelly	apple-cider-vinegar_3_5	Kelly	not side effect	2019-06-19 10:31:12
+apple-cider-vinegar_3_7-Kelly	apple-cider-vinegar_3_7	Kelly	not side effect	2019-06-19 10:31:15
+apple-cider-vinegar_3_8-Kelly	apple-cider-vinegar_3_8	Kelly	not side effect	2019-06-19 10:31:18
+apple-cider-vinegar_3_9-Kelly	apple-cider-vinegar_3_9	Kelly	not side effect	2019-06-19 10:31:21
+apple-cider-vinegar_4_1-Kelly	apple-cider-vinegar_4_1	Kelly	not side effect	2019-06-19 10:31:23
+apple-cider-vinegar_4_2-Kelly	apple-cider-vinegar_4_2	Kelly	not side effect	2019-06-19 10:31:24
+apple_1_0-Kelly	apple_1_0	Kelly	not side effect	2019-06-19 10:31:25
+apple_1_1-Kelly	apple_1_1	Kelly	not side effect	2019-06-19 10:31:28
+apple_1_3-Kelly	apple_1_3	Kelly	not side effect	2019-06-19 10:31:30
+apple_1_4-Kelly	apple_1_4	Kelly	not side effect	2019-06-19 10:31:33
+apple_1_5-Kelly	apple_1_5	Kelly	not side effect	2019-06-19 10:31:36
+apple_1_6-Kelly	apple_1_6	Kelly	not side effect	2019-06-19 10:31:38
+apple_1_7-Kelly	apple_1_7	Kelly	not side effect	2019-06-19 10:31:39
+apple_1_8-Kelly	apple_1_8	Kelly	not side effect	2019-06-19 10:31:41
+apricot-kernel_1_1-Kelly	apricot-kernel_1_1	Kelly	not side effect	2019-06-19 10:32:02
+apricot-kernel_1_5-Kelly	apricot-kernel_1_5	Kelly	not side effect	2019-06-19 10:32:03
+apricot-kernel_2_0-Kelly	apricot-kernel_2_0	Kelly	not side effect	2019-06-19 10:32:05
+apricot-kernel_2_2-Kelly	apricot-kernel_2_2	Kelly	side effect	2019-06-19 10:32:06
+apricot-kernel_2_3-Kelly	apricot-kernel_2_3	Kelly	not side effect	2019-06-19 10:32:08
+apricot-kernel_2_5-Kelly	apricot-kernel_2_5	Kelly	not side effect	2019-06-19 10:32:19
+apricot-kernel_2_6-Kelly	apricot-kernel_2_6	Kelly	not side effect	2019-06-19 10:32:19
+apricot-kernel_2_8-Kelly	apricot-kernel_2_8	Kelly	not side effect	2019-06-19 10:32:21
+apricot-kernel_2_9-Kelly	apricot-kernel_2_9	Kelly	not side effect	2019-06-19 10:32:54
+apricot-kernel_3_0-Kelly	apricot-kernel_3_0	Kelly	not side effect	2019-06-19 10:32:54
+apricot-kernel_3_1-Kelly	apricot-kernel_3_1	Kelly	not side effect	2019-06-19 10:33:04
+apricot-kernel_4_0-Kelly	apricot-kernel_4_0	Kelly	not side effect	2019-06-19 10:33:15
+apricot-kernel_4_1-Kelly	apricot-kernel_4_1	Kelly	not side effect	2019-06-19 10:33:25
+apricot-kernel_4_2-Kelly	apricot-kernel_4_2	Kelly	not side effect	2019-06-19 10:33:27
+apricot-kernel_4_3-Kelly	apricot-kernel_4_3	Kelly	not side effect	2019-06-19 10:33:29
+apricot-kernel_4_4-Kelly	apricot-kernel_4_4	Kelly	not side effect	2019-06-19 10:33:30
+apricot-kernel_4_6-Kelly	apricot-kernel_4_6	Kelly	not side effect	2019-06-19 10:33:31
+apricot-kernel_5_0-Kelly	apricot-kernel_5_0	Kelly	not side effect	2019-06-19 10:33:32
+apricot-kernel_5_1-Kelly	apricot-kernel_5_1	Kelly	not side effect	2019-06-19 10:33:34
+apricot-kernel_5_3-Kelly	apricot-kernel_5_3	Kelly	not side effect	2019-06-19 10:33:40
+apricot-kernel_5_4-Kelly	apricot-kernel_5_4	Kelly	not side effect	2019-06-19 10:33:49
+apricot-kernel_5_5-Kelly	apricot-kernel_5_5	Kelly	not side effect	2019-06-19 10:33:50
+aristolochia_2_0-Kelly	aristolochia_2_0	Kelly	side effect	2019-06-19 10:34:03
+arnica_1_0-Kelly	arnica_1_0	Kelly	not side effect	2019-06-19 10:34:11
+arnica_1_1-Kelly	arnica_1_1	Kelly	not side effect	2019-06-19 10:34:12
+arnica_1_2-Kelly	arnica_1_2	Kelly	not side effect	2019-06-19 10:34:13
+arnica_2_0-Kelly	arnica_2_0	Kelly	not side effect	2019-06-19 10:34:14
+arnica_2_1-Kelly	arnica_2_1	Kelly	not side effect	2019-06-19 10:34:15
+arnica_2_2-Kelly	arnica_2_2	Kelly	not side effect	2019-06-19 10:34:16
+arnica_3_0-Kelly	arnica_3_0	Kelly	not side effect	2019-06-19 10:34:18
+arnica_3_1-Kelly	arnica_3_1	Kelly	not side effect	2019-06-19 10:34:19
+arnica_3_2-Kelly	arnica_3_2	Kelly	not side effect	2019-06-19 10:34:20
+arnica_4_0-Kelly	arnica_4_0	Kelly	not side effect	2019-06-19 10:34:21
+arnica_4_1-Kelly	arnica_4_1	Kelly	not side effect	2019-06-19 10:34:24
+arnica_4_3-Kelly	arnica_4_3	Kelly	not side effect	2019-06-19 10:34:31
+arrowroot_1_0-Kelly	arrowroot_1_0	Kelly	not side effect	2019-06-19 10:34:35
+arrowroot_1_1-Kelly	arrowroot_1_1	Kelly	not side effect	2019-06-19 10:34:36
+arrowroot_1_2-Kelly	arrowroot_1_2	Kelly	not side effect	2019-06-19 10:34:39
+arrowroot_4_0-Kelly	arrowroot_4_0	Kelly	not side effect	2019-06-19 10:34:57
+arrowroot_4_3-Kelly	arrowroot_4_3	Kelly	not side effect	2019-06-19 10:34:56
+arrowroot_4_4-Kelly	arrowroot_4_4	Kelly	not side effect	2019-06-19 10:34:58
+arrowroot_5_1-Kelly	arrowroot_5_1	Kelly	not side effect	2019-06-19 10:35:01
+arrowroot_5_2-Kelly	arrowroot_5_2	Kelly	not side effect	2019-06-19 10:35:03
+arrowroot_5_3-Kelly	arrowroot_5_3	Kelly	not side effect	2019-06-19 10:35:04
+arsenic_1_0-Kelly	arsenic_1_0	Kelly	not side effect	2019-06-19 10:35:05
+arsenic_2_1-Kelly	arsenic_2_1	Kelly	not side effect	2019-06-19 10:35:13
+artemisia-herba-alba_1_0-Kelly	artemisia-herba-alba_1_0	Kelly	not side effect	2019-06-19 10:35:17
+artemisia-herba-alba_1_1-Kelly	artemisia-herba-alba_1_1	Kelly	not side effect	2019-06-19 10:35:18
+artichoke_1_0-Kelly	artichoke_1_0	Kelly	not side effect	2019-06-19 10:35:20
+artichoke_1_1-Kelly	artichoke_1_1	Kelly	not side effect	2019-06-19 10:35:21
+artichoke_1_2-Kelly	artichoke_1_2	Kelly	not side effect	2019-06-19 10:35:22
+artichoke_2_0-Kelly	artichoke_2_0	Kelly	not side effect	2019-06-19 10:35:23
+artichoke_4_0-Kelly	artichoke_4_0	Kelly	not side effect	2019-06-19 10:35:50
+artichoke_4_1-Kelly	artichoke_4_1	Kelly	not side effect	2019-06-19 10:35:51
+artichoke_4_2-Kelly	artichoke_4_2	Kelly	not side effect	2019-06-19 10:35:51
+artichoke_4_3-Kelly	artichoke_4_3	Kelly	side effect	2019-06-19 10:35:55
+artichoke_4_4-Kelly	artichoke_4_4	Kelly	not side effect	2019-06-19 10:35:57
+artichoke_5_0-Kelly	artichoke_5_0	Kelly	not side effect	2019-06-19 10:35:58
+asafoetida_1_1-Kelly	asafoetida_1_1	Kelly	not side effect	2019-06-19 10:38:23
+asafoetida_2_0-Kelly	asafoetida_2_0	Kelly	not side effect	2019-06-19 10:38:24
+asafoetida_3_0-Kelly	asafoetida_3_0	Kelly	not side effect	2019-06-19 10:38:24
+asafoetida_3_1-Kelly	asafoetida_3_1	Kelly	not side effect	2019-06-19 10:38:30
+asafoetida_3_2-Kelly	asafoetida_3_2	Kelly	not side effect	2019-06-19 10:38:30
+ascorbigen_1_0-Kelly	ascorbigen_1_0	Kelly	not side effect	2019-06-19 10:38:59
+ashitaba_1_0-Kelly	ashitaba_1_0	Kelly	not side effect	2019-06-19 10:39:02
+ashwagandha_1_0-Kelly	ashwagandha_1_0	Kelly	not side effect	2019-06-19 10:39:04
+ashwagandha_1_1-Kelly	ashwagandha_1_1	Kelly	not side effect	2019-06-19 10:39:06
+ashwagandha_1_2-Kelly	ashwagandha_1_2	Kelly	not side effect	2019-06-19 10:39:07
+ashwagandha_1_3-Kelly	ashwagandha_1_3	Kelly	not side effect	2019-06-19 10:39:09
+ashwagandha_1_4-Kelly	ashwagandha_1_4	Kelly	not side effect	2019-06-19 10:39:18
+ashwagandha_1_5-Kelly	ashwagandha_1_5	Kelly	not side effect	2019-06-19 10:39:19
+ashwagandha_2_0-Kelly	ashwagandha_2_0	Kelly	not side effect	2019-06-19 10:39:20
+ashwagandha_2_1-Kelly	ashwagandha_2_1	Kelly	not side effect	2019-06-19 10:39:21
+ashwagandha_2_2-Kelly	ashwagandha_2_2	Kelly	not side effect	2019-06-19 10:39:23
+ashwagandha_3_0-Kelly	ashwagandha_3_0	Kelly	side effect	2019-06-19 10:39:28
+ashwagandha_3_1-Kelly	ashwagandha_3_1	Kelly	side effect	2019-06-19 10:39:29
+ashwagandha_3_2-Kelly	ashwagandha_3_2	Kelly	not side effect	2019-06-19 10:39:31
+ashwagandha_3_3-Kelly	ashwagandha_3_3	Kelly	side effect	2019-06-19 10:39:34
+ashwagandha_3_4-Kelly	ashwagandha_3_4	Kelly	not side effect	2019-06-19 10:39:37
+ashwagandha_4_0-Kelly	ashwagandha_4_0	Kelly	not side effect	2019-06-19 10:39:39
+ashwagandha_4_1-Kelly	ashwagandha_4_1	Kelly	not side effect	2019-06-19 10:39:41
+ashwagandha_5_0-Kelly	ashwagandha_5_0	Kelly	side effect	2019-06-19 10:39:42
+ashwagandha_5_1-Kelly	ashwagandha_5_1	Kelly	not side effect	2019-06-19 10:39:43
+asparagus-racemosus_1_0-Kelly	asparagus-racemosus_1_0	Kelly	not side effect	2019-06-19 10:39:47
+asparagus-racemosus_1_1-Kelly	asparagus-racemosus_1_1	Kelly	not side effect	2019-06-19 10:39:48
+asparagus-racemosus_1_2-Kelly	asparagus-racemosus_1_2	Kelly	not side effect	2019-06-19 10:40:05
+asparagus-racemosus_1_3-Kelly	asparagus-racemosus_1_3	Kelly	not side effect	2019-06-19 10:40:06
+asparagus-racemosus_1_5-Kelly	asparagus-racemosus_1_5	Kelly	not side effect	2019-06-19 10:40:06
+asparagus-racemosus_1_6-Kelly	asparagus-racemosus_1_6	Kelly	side effect	2019-06-19 10:41:39
+asparagus_4_1-Kelly	asparagus_4_1	Kelly	not side effect	2019-06-19 10:40:08
+astaxanthin_1_1-Kelly	astaxanthin_1_1	Kelly	not side effect	2019-06-19 10:44:56
+astaxanthin_1_2-Kelly	astaxanthin_1_2	Kelly	not side effect	2019-06-19 10:44:55
+astaxanthin_1_4-Kelly	astaxanthin_1_4	Kelly	not side effect	2019-06-19 10:44:56
+astaxanthin_2_0-Kelly	astaxanthin_2_0	Kelly	not side effect	2019-06-19 10:44:56
+astaxanthin_2_1-Kelly	astaxanthin_2_1	Kelly	not side effect	2019-06-19 10:44:58
+astaxanthin_2_2-Kelly	astaxanthin_2_2	Kelly	not side effect	2019-06-19 10:44:58
+astaxanthin_2_3-Kelly	astaxanthin_2_3	Kelly	not side effect	2019-06-19 10:44:59
+astaxanthin_2_4-Kelly	astaxanthin_2_4	Kelly	not side effect	2019-06-19 10:45:02
+astaxanthin_3_0-Kelly	astaxanthin_3_0	Kelly	not side effect	2019-06-19 12:07:30
+astaxanthin_3_1-Kelly	astaxanthin_3_1	Kelly	not side effect	2019-06-19 12:07:31
+astaxanthin_3_2-Kelly	astaxanthin_3_2	Kelly	not side effect	2019-06-19 12:07:32
+astaxanthin_3_3-Kelly	astaxanthin_3_3	Kelly	not side effect	2019-06-19 12:07:34
+astaxanthin_3_4-Kelly	astaxanthin_3_4	Kelly	not side effect	2019-06-19 12:07:35
+astaxanthin_3_5-Kelly	astaxanthin_3_5	Kelly	not side effect	2019-06-19 12:07:36
+astaxanthin_3_6-Kelly	astaxanthin_3_6	Kelly	not side effect	2019-06-19 12:07:37
+astaxanthin_3_7-Kelly	astaxanthin_3_7	Kelly	not side effect	2019-06-19 12:07:38
+astaxanthin_5_0-Kelly	astaxanthin_5_0	Kelly	not side effect	2019-06-19 12:07:41
+astaxanthin_5_1-Kelly	astaxanthin_5_1	Kelly	not side effect	2019-06-19 12:07:41
+astaxanthin_5_2-Kelly	astaxanthin_5_2	Kelly	not side effect	2019-06-19 12:07:42
+astaxanthin_5_3-Kelly	astaxanthin_5_3	Kelly	not side effect	2019-06-19 12:07:43
+astragalus_1_0-Kelly	astragalus_1_0	Kelly	not side effect	2019-06-19 12:07:44
+astragalus_1_1-Kelly	astragalus_1_1	Kelly	not side effect	2019-06-19 12:07:46
+astragalus_1_2-Kelly	astragalus_1_2	Kelly	not side effect	2019-06-19 12:07:47
+astragalus_1_3-Kelly	astragalus_1_3	Kelly	not side effect	2019-06-19 12:07:48
+astragalus_1_4-Kelly	astragalus_1_4	Kelly	side effect	2019-06-19 12:07:50
+astragalus_1_5-Kelly	astragalus_1_5	Kelly	not side effect	2019-06-19 12:07:51
+astragalus_1_6-Kelly	astragalus_1_6	Kelly	not side effect	2019-06-19 12:07:52
+astragalus_1_7-Kelly	astragalus_1_7	Kelly	not side effect	2019-06-19 12:07:53
+astragalus_1_8-Kelly	astragalus_1_8	Kelly	not side effect	2019-06-19 12:07:55
+astragalus_3_0-Kelly	astragalus_3_0	Kelly	not side effect	2019-06-19 12:07:56
+astragalus_3_1-Kelly	astragalus_3_1	Kelly	not side effect	2019-06-19 12:07:58
+autumn-crocus_2_0-Kelly	autumn-crocus_2_0	Kelly	not side effect	2019-06-19 12:08:00
+avocado_2_0-Kelly	avocado_2_0	Kelly	not side effect	2019-06-19 12:10:06
+avocado_3_0-Kelly	avocado_3_0	Kelly	not side effect	2019-06-19 12:10:07
+avocado_3_1-Kelly	avocado_3_1	Kelly	not side effect	2019-06-19 12:10:08
+ba-ji-tian_1_0-Kelly	ba-ji-tian_1_0	Kelly	not side effect	2019-06-19 12:10:10
+ba-ji-tian_1_1-Kelly	ba-ji-tian_1_1	Kelly	not side effect	2019-06-19 12:10:11
+ba-ji-tian_1_2-Kelly	ba-ji-tian_1_2	Kelly	not side effect	2019-06-19 12:10:12
+bacillus-coagulans_1_0-Kelly	bacillus-coagulans_1_0	Kelly	side effect	2019-06-19 12:10:32
+bacillus-coagulans_1_1-Kelly	bacillus-coagulans_1_1	Kelly	not side effect	2019-06-19 12:10:23
+bacillus-coagulans_2_0-Kelly	bacillus-coagulans_2_0	Kelly	not side effect	2019-06-19 12:10:33
+bacillus-coagulans_2_1-Kelly	bacillus-coagulans_2_1	Kelly	not side effect	2019-06-19 12:10:34
+bacillus-coagulans_2_2-Kelly	bacillus-coagulans_2_2	Kelly	not side effect	2019-06-19 12:10:36
+bacillus-coagulans_2_3-Kelly	bacillus-coagulans_2_3	Kelly	not side effect	2019-06-19 12:10:36
+bacillus-coagulans_2_4-Kelly	bacillus-coagulans_2_4	Kelly	not side effect	2019-06-19 12:10:38
+bacillus-coagulans_3_0-Kelly	bacillus-coagulans_3_0	Kelly	not side effect	2019-06-19 12:10:40
+bacillus-coagulans_3_1-Kelly	bacillus-coagulans_3_1	Kelly	not side effect	2019-06-19 12:10:44
+bacillus-coagulans_3_2-Kelly	bacillus-coagulans_3_2	Kelly	not side effect	2019-06-19 12:10:48
+bacillus-coagulans_3_3-Kelly	bacillus-coagulans_3_3	Kelly	not side effect	2019-06-19 12:10:50
+bacillus-coagulans_3_4-Kelly	bacillus-coagulans_3_4	Kelly	not side effect	2019-06-19 12:10:51
+bacillus-coagulans_3_6-Kelly	bacillus-coagulans_3_6	Kelly	not side effect	2019-06-19 12:10:52
+bacillus-coagulans_4_0-Kelly	bacillus-coagulans_4_0	Kelly	not side effect	2019-06-19 12:10:53
+bacillus-coagulans_4_1-Kelly	bacillus-coagulans_4_1	Kelly	not side effect	2019-06-19 12:10:57
+bacopa_1_0-Kelly	bacopa_1_0	Kelly	not side effect	2019-06-19 12:10:59
+bacopa_2_1-Kelly	bacopa_2_1	Kelly	side effect	2019-06-19 12:11:10
+bacopa_2_2-Kelly	bacopa_2_2	Kelly	not side effect	2019-06-19 12:11:03
+bacopa_3_1-Kelly	bacopa_3_1	Kelly	not side effect	2019-06-19 12:11:12
+bacopa_3_2-Kelly	bacopa_3_2	Kelly	side effect	2019-06-19 12:11:21
+bacopa_3_3-Kelly	bacopa_3_3	Kelly	not side effect	2019-06-19 12:11:21
+bacopa_3_4-Kelly	bacopa_3_4	Kelly	not side effect	2019-06-19 12:11:22
+bacopa_3_5-Kelly	bacopa_3_5	Kelly	not side effect	2019-06-19 12:11:24
+bacopa_3_6-Kelly	bacopa_3_6	Kelly	not side effect	2019-06-19 12:11:26
+bacopa_3_7-Kelly	bacopa_3_7	Kelly	not side effect	2019-06-19 12:11:27
+bacopa_5_1-Kelly	bacopa_5_1	Kelly	side effect	2019-06-19 12:11:32
+bacopa_5_10-Kelly	bacopa_5_10	Kelly	not side effect	2019-06-19 12:11:34
+bacopa_5_11-Kelly	bacopa_5_11	Kelly	side effect	2019-06-19 12:11:37
+bacopa_5_12-Kelly	bacopa_5_12	Kelly	not side effect	2019-06-19 12:11:52
+bacopa_5_13-Kelly	bacopa_5_13	Kelly	not side effect	2019-06-19 12:11:53
+bacopa_5_2-Kelly	bacopa_5_2	Kelly	not side effect	2019-06-19 12:11:54
+bacopa_5_3-Kelly	bacopa_5_3	Kelly	not side effect	2019-06-19 12:11:55
+bacopa_5_4-Kelly	bacopa_5_4	Kelly	side effect	2019-06-19 12:11:56
+bacopa_5_6-Kelly	bacopa_5_6	Kelly	not side effect	2019-06-19 12:11:57
+bacopa_5_8-Kelly	bacopa_5_8	Kelly	not side effect	2019-06-19 12:11:59
+bacopa_5_9-Kelly	bacopa_5_9	Kelly	side effect	2019-06-19 12:12:00
+baikal-skullcap_2_1-Kelly	baikal-skullcap_2_1	Kelly	not side effect	2019-06-19 12:12:01
+baikal-skullcap_2_2-Kelly	baikal-skullcap_2_2	Kelly	not side effect	2019-06-19 12:12:03
+bamboo_1_0-Kelly	bamboo_1_0	Kelly	not side effect	2019-06-19 12:12:04
+bamboo_1_1-Kelly	bamboo_1_1	Kelly	not side effect	2019-06-19 12:12:06
+bamboo_2_0-Kelly	bamboo_2_0	Kelly	not side effect	2019-06-19 12:12:07
+bamboo_2_1-Kelly	bamboo_2_1	Kelly	not side effect	2019-06-19 12:12:08
+banaba_1_2-Kelly	banaba_1_2	Kelly	not side effect	2019-06-19 12:12:11
+banaba_1_3-Kelly	banaba_1_3	Kelly	not side effect	2019-06-19 12:16:32
+banaba_1_4-Kelly	banaba_1_4	Kelly	not side effect	2019-06-19 12:16:33
+banaba_1_6-Kelly	banaba_1_6	Kelly	not side effect	2019-06-19 12:16:34
+banaba_2_1-Kelly	banaba_2_1	Kelly	not side effect	2019-06-19 12:16:35
+banaba_2_2-Kelly	banaba_2_2	Kelly	not side effect	2019-06-19 12:16:37
+banaba_2_3-Kelly	banaba_2_3	Kelly	not side effect	2019-06-19 12:16:40
+banaba_5_0-Kelly	banaba_5_0	Kelly	not side effect	2019-06-20 00:18:43
+banaba_5_1-Kelly	banaba_5_1	Kelly	not side effect	2019-06-20 00:18:44
+baobab_1_0-Kelly	baobab_1_0	Kelly	not side effect	2019-06-20 00:18:47
+baobab_1_1-Kelly	baobab_1_1	Kelly	side effect	2019-06-20 00:18:54
+baobab_1_2-Kelly	baobab_1_2	Kelly	not side effect	2019-06-20 00:18:57
+baobab_2_0-Kelly	baobab_2_0	Kelly	side effect	2019-06-20 00:19:01
+baobab_4_0-Kelly	baobab_4_0	Kelly	not side effect	2019-06-20 00:19:03
+baobab_4_1-Kelly	baobab_4_1	Kelly	not side effect	2019-06-20 00:19:04
+baobab_4_2-Kelly	baobab_4_2	Kelly	not side effect	2019-06-20 00:19:05
+baobab_4_4-Kelly	baobab_4_4	Kelly	not side effect	2019-06-20 00:19:09
+baobab_5_0-Kelly	baobab_5_0	Kelly	not side effect	2019-06-20 00:19:11
+baobab_5_1-Kelly	baobab_5_1	Kelly	not side effect	2019-06-20 00:19:12
+baobab_5_2-Kelly	baobab_5_2	Kelly	not side effect	2019-06-20 00:19:15
+baobab_5_3-Kelly	baobab_5_3	Kelly	not side effect	2019-06-20 00:19:16
+barley_1_0-Kelly	barley_1_0	Kelly	not side effect	2019-06-20 00:19:19
+barley_1_1-Kelly	barley_1_1	Kelly	not side effect	2019-06-20 00:19:20
+basil_1_0-Kelly	basil_1_0	Kelly	not side effect	2019-06-20 00:19:22
+basil_1_1-Kelly	basil_1_1	Kelly	not side effect	2019-06-20 00:19:23
+basil_1_2-Kelly	basil_1_2	Kelly	not side effect	2019-06-20 00:19:25
+basil_3_0-Kelly	basil_3_0	Kelly	not side effect	2019-06-20 00:19:28
+basil_3_1-Kelly	basil_3_1	Kelly	not side effect	2019-06-20 00:19:29
+basil_3_2-Kelly	basil_3_2	Kelly	not side effect	2019-06-20 00:19:33
+basil_3_5-Kelly	basil_3_5	Kelly	not side effect	2019-06-20 00:19:34
+basil_3_6-Kelly	basil_3_6	Kelly	not side effect	2019-06-20 00:19:36
+basil_3_9-Kelly	basil_3_9	Kelly	not side effect	2019-06-20 00:19:40
+bayberry_1_1-Kelly	bayberry_1_1	Kelly	not side effect	2019-06-20 00:19:43
+bee-pollen_1_0-Kelly	bee-pollen_1_0	Kelly	not side effect	2019-06-20 00:19:45
+bee-pollen_1_1-Kelly	bee-pollen_1_1	Kelly	not side effect	2019-06-20 00:19:46
+bee-pollen_1_2-Kelly	bee-pollen_1_2	Kelly	not side effect	2019-06-20 00:19:47
+bee-pollen_1_3-Kelly	bee-pollen_1_3	Kelly	not side effect	2019-06-20 00:19:49
+bee-pollen_5_0-Kelly	bee-pollen_5_0	Kelly	not side effect	2019-06-20 00:19:50
+bee-venom_1_0-Kelly	bee-venom_1_0	Kelly	not side effect	2019-06-20 00:19:52
+bee-venom_3_0-Kelly	bee-venom_3_0	Kelly	not side effect	2019-06-20 00:19:54
+bee-venom_3_1-Kelly	bee-venom_3_1	Kelly	not side effect	2019-06-20 00:19:55
+bee-venom_3_2-Kelly	bee-venom_3_2	Kelly	not side effect	2019-06-20 00:20:00
+bee-venom_3_3-Kelly	bee-venom_3_3	Kelly	not side effect	2019-06-20 00:20:01
+bee-venom_4_0-Kelly	bee-venom_4_0	Kelly	not side effect	2019-06-20 00:20:10
+bee-venom_4_1-Kelly	bee-venom_4_1	Kelly	not side effect	2019-06-20 00:20:11
+bee-venom_5_0-Kelly	bee-venom_5_0	Kelly	not side effect	2019-06-20 00:20:12
+bee-venom_5_1-Kelly	bee-venom_5_1	Kelly	not side effect	2019-06-20 00:20:14
+bee-venom_5_2-Kelly	bee-venom_5_2	Kelly	not side effect	2019-06-20 00:20:16
+beer_1_0-Kelly	beer_1_0	Kelly	not side effect	2019-06-20 00:20:17
+beer_2_1-Kelly	beer_2_1	Kelly	side effect	2019-06-20 00:20:31
+beer_2_2-Kelly	beer_2_2	Kelly	not side effect	2019-06-20 00:20:27
+beer_2_3-Kelly	beer_2_3	Kelly	not side effect	2019-06-20 00:20:28
+beer_3_1-Kelly	beer_3_1	Kelly	not side effect	2019-06-20 00:20:43
+beer_4_0-Kelly	beer_4_0	Kelly	not side effect	2019-06-20 00:20:44
+beer_5_0-Kelly	beer_5_0	Kelly	not side effect	2019-06-20 00:20:45
+beer_5_1-Kelly	beer_5_1	Kelly	not side effect	2019-06-20 00:20:48
+beer_5_2-Kelly	beer_5_2	Kelly	not side effect	2019-06-20 00:20:49
+beeswax_1_0-Kelly	beeswax_1_0	Kelly	not side effect	2019-06-20 00:20:55
+beeswax_1_1-Kelly	beeswax_1_1	Kelly	not side effect	2019-06-20 00:20:57
+beeswax_1_3-Kelly	beeswax_1_3	Kelly	not side effect	2019-06-20 00:21:00
+beet_1_1-Kelly	beet_1_1	Kelly	not side effect	2019-06-20 00:21:01
+beet_1_2-Kelly	beet_1_2	Kelly	not side effect	2019-06-20 00:21:09
+beet_3_0-Kelly	beet_3_0	Kelly	not side effect	2019-06-20 00:21:18
+beet_3_10-Kelly	beet_3_10	Kelly	not side effect	2019-06-20 00:21:20
+beet_3_11-Kelly	beet_3_11	Kelly	not side effect	2019-06-20 00:21:21
+beet_3_12-Kelly	beet_3_12	Kelly	not side effect	2019-06-20 00:21:23
+beet_3_13-Kelly	beet_3_13	Kelly	side effect	2019-06-20 00:21:34
+beet_3_3-Kelly	beet_3_3	Kelly	not side effect	2019-06-20 00:21:35
+beet_3_4-Kelly	beet_3_4	Kelly	not side effect	2019-06-20 00:21:36
+beet_3_5-Kelly	beet_3_5	Kelly	not side effect	2019-06-20 00:21:37
+beet_3_6-Kelly	beet_3_6	Kelly	not side effect	2019-06-20 00:21:39
+beet_3_7-Kelly	beet_3_7	Kelly	not side effect	2019-06-20 00:21:40
+beet_3_9-Kelly	beet_3_9	Kelly	not side effect	2019-06-20 00:21:41
+beet_4_0-Kelly	beet_4_0	Kelly	not side effect	2019-06-20 00:21:42
+beet_5_0-Kelly	beet_5_0	Kelly	not side effect	2019-06-20 00:21:46
+beet_5_1-Kelly	beet_5_1	Kelly	not side effect	2019-06-20 00:21:45
+belladonna_2_0-Kelly	belladonna_2_0	Kelly	not side effect	2019-06-20 00:21:47
+belladonna_2_1-Kelly	belladonna_2_1	Kelly	not side effect	2019-06-20 00:21:49
+belladonna_2_2-Kelly	belladonna_2_2	Kelly	not side effect	2019-06-20 00:21:50
+belladonna_2_3-Kelly	belladonna_2_3	Kelly	not side effect	2019-06-20 00:21:51
+belladonna_2_4-Kelly	belladonna_2_4	Kelly	not side effect	2019-06-20 00:21:53
+belladonna_4_0-Kelly	belladonna_4_0	Kelly	not side effect	2019-06-20 00:21:54
+benzoin_1_0-Kelly	benzoin_1_0	Kelly	not side effect	2019-06-20 00:21:55
+benzoin_1_1-Kelly	benzoin_1_1	Kelly	not side effect	2019-06-20 00:21:57
+benzoin_1_2-Kelly	benzoin_1_2	Kelly	not side effect	2019-06-20 00:21:58
+benzoin_3_0-Kelly	benzoin_3_0	Kelly	not side effect	2019-06-20 00:22:00
+berberine_1_0-Kelly	berberine_1_0	Kelly	not side effect	2019-06-20 00:22:02
+berberine_2_2-Kelly	berberine_2_2	Kelly	not side effect	2019-06-20 00:22:05
+berberine_2_3-Kelly	berberine_2_3	Kelly	not side effect	2019-06-20 00:22:07
+berberine_2_4-Kelly	berberine_2_4	Kelly	not side effect	2019-06-20 00:22:12
+berberine_2_6-Kelly	berberine_2_6	Kelly	not side effect	2019-06-20 00:22:14
+berberine_4_0-Kelly	berberine_4_0	Kelly	not side effect	2019-06-20 00:22:16
+berberine_4_1-Kelly	berberine_4_1	Kelly	not side effect	2019-06-20 00:22:18
+berberine_4_2-Kelly	berberine_4_2	Kelly	not side effect	2019-06-20 00:22:19
+berberine_4_4-Kelly	berberine_4_4	Kelly	not side effect	2019-06-20 00:22:20
+berberine_4_5-Kelly	berberine_4_5	Kelly	not side effect	2019-06-20 00:22:21
+berberine_4_7-Kelly	berberine_4_7	Kelly	not side effect	2019-06-20 00:22:29
+berberine_4_8-Kelly	berberine_4_8	Kelly	not side effect	2019-06-20 00:22:36
+berberine_5_2-Kelly	berberine_5_2	Kelly	not side effect	2019-06-20 00:22:46
+berberine_5_3-Kelly	berberine_5_3	Kelly	not side effect	2019-06-20 00:22:48
+berberine_5_5-Kelly	berberine_5_5	Kelly	not side effect	2019-06-20 00:22:50
+berberine_5_7-Kelly	berberine_5_7	Kelly	not side effect	2019-06-20 00:22:51
+bergamot_2_0-Kelly	bergamot_2_0	Kelly	not side effect	2019-06-20 00:22:53
+bergamot_2_1-Kelly	bergamot_2_1	Kelly	not side effect	2019-06-20 00:22:54
+bergamot_2_3-Kelly	bergamot_2_3	Kelly	not side effect	2019-06-20 00:22:56
+bergamot_2_4-Kelly	bergamot_2_4	Kelly	not side effect	2019-06-20 00:22:57
+bergamot_4_0-Kelly	bergamot_4_0	Kelly	not side effect	2019-06-20 00:22:59
+beta-alanine_3_0-Kelly	beta-alanine_3_0	Kelly	not side effect	2019-06-20 00:23:01
+beta-alanine_3_1-Kelly	beta-alanine_3_1	Kelly	not side effect	2019-06-20 00:24:59
+beta-alanine_3_2-Kelly	beta-alanine_3_2	Kelly	not side effect	2019-06-20 00:25:01
+beta-alanine_5_0-Kelly	beta-alanine_5_0	Kelly	not side effect	2019-06-20 00:25:02
+beta-carotene_2_0-Kelly	beta-carotene_2_0	Kelly	not side effect	2019-06-20 00:25:03
+beta-glucans_3_0-Kelly	beta-glucans_3_0	Kelly	not side effect	2019-06-20 00:25:04
+beta-glucans_3_1-Kelly	beta-glucans_3_1	Kelly	not side effect	2019-06-20 00:25:07
+beta-glucans_4_0-Kelly	beta-glucans_4_0	Kelly	not side effect	2019-06-20 00:25:11
+beta-glucans_4_1-Kelly	beta-glucans_4_1	Kelly	not side effect	2019-06-20 00:25:13
+beta-glucans_4_2-Kelly	beta-glucans_4_2	Kelly	not side effect	2019-06-20 00:25:15
+beta-glucans_4_3-Kelly	beta-glucans_4_3	Kelly	not side effect	2019-06-20 00:25:16
+beta-glucans_5_0-Kelly	beta-glucans_5_0	Kelly	not side effect	2019-06-20 00:25:19
+beta-glucans_5_1-Kelly	beta-glucans_5_1	Kelly	not side effect	2019-06-20 00:25:20
+beta-glucans_5_2-Kelly	beta-glucans_5_2	Kelly	not side effect	2019-06-20 00:25:21
+beta-glucans_5_3-Kelly	beta-glucans_5_3	Kelly	not side effect	2019-06-20 00:25:23
+beta-glucans_5_4-Kelly	beta-glucans_5_4	Kelly	not side effect	2019-06-20 00:25:24
+beta-glucans_5_5-Kelly	beta-glucans_5_5	Kelly	not side effect	2019-06-20 00:25:25
+beta-sitosterol_1_0-Kelly	beta-sitosterol_1_0	Kelly	not side effect	2019-06-20 00:25:26
+beta-sitosterol_1_1-Kelly	beta-sitosterol_1_1	Kelly	not side effect	2019-06-20 00:25:27
+beta-sitosterol_2_0-Kelly	beta-sitosterol_2_0	Kelly	not side effect	2019-06-20 00:25:28
+beta-sitosterol_2_1-Kelly	beta-sitosterol_2_1	Kelly	not side effect	2019-06-20 00:25:30
+beta-sitosterol_4_0-Kelly	beta-sitosterol_4_0	Kelly	not side effect	2019-06-20 00:25:31
+beta-sitosterol_5_0-Kelly	beta-sitosterol_5_0	Kelly	not side effect	2019-06-20 00:25:34
+beta-sitosterol_5_1-Kelly	beta-sitosterol_5_1	Kelly	not side effect	2019-06-20 00:25:36
+beta-sitosterol_5_2-Kelly	beta-sitosterol_5_2	Kelly	not side effect	2019-06-20 00:25:37
+betaine-anhydrous_1_0-Kelly	betaine-anhydrous_1_0	Kelly	not side effect	2019-06-20 00:25:38
+betaine-anhydrous_1_2-Kelly	betaine-anhydrous_1_2	Kelly	not side effect	2019-06-20 00:25:39
+betaine-anhydrous_2_0-Kelly	betaine-anhydrous_2_0	Kelly	not side effect	2019-06-20 00:25:46
+betaine-hydrochloride_2_0-Kelly	betaine-hydrochloride_2_0	Kelly	not side effect	2019-06-20 00:25:47
+betaine-hydrochloride_2_1-Kelly	betaine-hydrochloride_2_1	Kelly	not side effect	2019-06-20 00:25:48
+betaine-hydrochloride_2_2-Kelly	betaine-hydrochloride_2_2	Kelly	not side effect	2019-06-20 00:25:56
+betaine-hydrochloride_2_3-Kelly	betaine-hydrochloride_2_3	Kelly	not side effect	2019-06-20 00:26:02
+betaine-hydrochloride_2_4-Kelly	betaine-hydrochloride_2_4	Kelly	not side effect	2019-06-20 00:26:03
+betaine-hydrochloride_2_5-Kelly	betaine-hydrochloride_2_5	Kelly	not side effect	2019-06-20 00:26:05
+betaine-hydrochloride_3_0-Kelly	betaine-hydrochloride_3_0	Kelly	not side effect	2019-06-20 00:26:07
+betaine-hydrochloride_3_3-Kelly	betaine-hydrochloride_3_3	Kelly	not side effect	2019-06-20 00:26:09
+betaine-hydrochloride_3_4-Kelly	betaine-hydrochloride_3_4	Kelly	not side effect	2019-06-20 00:26:12
+betaine-hydrochloride_3_5-Kelly	betaine-hydrochloride_3_5	Kelly	not side effect	2019-06-20 00:26:14
+betaine-hydrochloride_4_1-Kelly	betaine-hydrochloride_4_1	Kelly	not side effect	2019-06-20 00:26:27
+betaine-hydrochloride_4_2-Kelly	betaine-hydrochloride_4_2	Kelly	not side effect	2019-06-20 00:26:28
+betaine-hydrochloride_5_0-Kelly	betaine-hydrochloride_5_0	Kelly	not side effect	2019-06-20 00:26:29
+betaine-hydrochloride_5_1-Kelly	betaine-hydrochloride_5_1	Kelly	not side effect	2019-06-20 00:26:30
+betaine-hydrochloride_5_2-Kelly	betaine-hydrochloride_5_2	Kelly	not side effect	2019-06-20 00:26:32
+betaine-hydrochloride_5_3-Kelly	betaine-hydrochloride_5_3	Kelly	not side effect	2019-06-20 00:26:34
+betaine-hydrochloride_5_4-Kelly	betaine-hydrochloride_5_4	Kelly	not side effect	2019-06-20 00:26:35
+betel-nut_2_0-Kelly	betel-nut_2_0	Kelly	not side effect	2019-06-20 00:26:36
+betel-nut_2_1-Kelly	betel-nut_2_1	Kelly	side effect	2019-06-20 00:26:47
+betony_1_0-Kelly	betony_1_0	Kelly	side effect	2019-06-20 00:27:14
+betony_1_3-Kelly	betony_1_3	Kelly	not side effect	2019-06-20 00:27:14
+betony_1_4-Kelly	betony_1_4	Kelly	not side effect	2019-06-20 00:27:15
+betony_1_7-Kelly	betony_1_7	Kelly	not side effect	2019-06-20 00:27:17
+betony_2_0-Kelly	betony_2_0	Kelly	not side effect	2019-06-20 00:27:18
+betony_2_1-Kelly	betony_2_1	Kelly	not side effect	2019-06-20 00:27:19
+betony_2_2-Kelly	betony_2_2	Kelly	not side effect	2019-06-20 00:27:20
+betony_2_3-Kelly	betony_2_3	Kelly	not side effect	2019-06-20 00:27:21
+betony_2_4-Kelly	betony_2_4	Kelly	not side effect	2019-06-20 00:27:23
+betony_2_5-Kelly	betony_2_5	Kelly	not side effect	2019-06-20 00:27:25
+betony_3_0-Kelly	betony_3_0	Kelly	not side effect	2019-06-20 00:27:26
+betony_3_1-Kelly	betony_3_1	Kelly	not side effect	2019-06-20 00:27:27
+bifidobacteria_1_0-Kelly	bifidobacteria_1_0	Kelly	not side effect	2019-06-20 00:27:27
+bifidobacteria_1_1-Kelly	bifidobacteria_1_1	Kelly	not side effect	2019-08-05 22:31:29
+bifidobacteria_2_0-Kelly	bifidobacteria_2_0	Kelly	not side effect	2019-08-05 22:31:30
+bifidobacteria_2_2-Kelly	bifidobacteria_2_2	Kelly	not side effect	2019-08-05 22:31:31
+bifidobacteria_5_0-Kelly	bifidobacteria_5_0	Kelly	not side effect	2019-08-05 22:31:32
+bifidobacteria_5_1-Kelly	bifidobacteria_5_1	Kelly	not side effect	2019-08-05 22:31:33
+bilberry_3_0-Kelly	bilberry_3_0	Kelly	not side effect	2019-08-05 22:31:39
+bilberry_3_1-Kelly	bilberry_3_1	Kelly	not side effect	2019-08-05 22:45:07
+bilberry_3_2-Kelly	bilberry_3_2	Kelly	not side effect	2019-08-05 22:45:07
+bilberry_4_0-Kelly	bilberry_4_0	Kelly	not side effect	2019-08-05 22:45:09
+bilberry_4_1-Kelly	bilberry_4_1	Kelly	not side effect	2019-08-05 23:32:36
+bilberry_4_2-Kelly	bilberry_4_2	Kelly	not side effect	2019-08-05 23:32:36
+bilberry_4_3-Kelly	bilberry_4_3	Kelly	not side effect	2019-08-05 23:32:38
+bilberry_5_0-Kelly	bilberry_5_0	Kelly	not side effect	2019-08-05 23:32:39
+bilberry_5_1-Kelly	bilberry_5_1	Kelly	not side effect	2019-08-05 23:32:40
+bilberry_5_2-Kelly	bilberry_5_2	Kelly	not side effect	2019-08-05 23:32:41
+bilberry_5_3-Kelly	bilberry_5_3	Kelly	not side effect	2019-08-05 23:32:42
+bilberry_5_5-Kelly	bilberry_5_5	Kelly	not side effect	2019-08-05 23:32:44
+bilberry_5_6-Kelly	bilberry_5_6	Kelly	not side effect	2019-08-05 23:51:11
+bilberry_5_7-Kelly	bilberry_5_7	Kelly	not side effect	2019-08-05 23:51:12
+bilberry_5_8-Kelly	bilberry_5_8	Kelly	not side effect	2019-08-05 23:51:13
+biocell-collagen_1_0-Kelly	biocell-collagen_1_0	Kelly	not side effect	2019-08-06 00:53:37
+biocell-collagen_2_0-Kelly	biocell-collagen_2_0	Kelly	not side effect	2019-08-06 00:53:41
+biocell-collagen_2_2-Kelly	biocell-collagen_2_2	Kelly	not side effect	2019-08-06 00:53:42
+biocell-collagen_4_0-Kelly	biocell-collagen_4_0	Kelly	not side effect	2019-08-06 01:35:02
+biocell-collagen_5_0-Kelly	biocell-collagen_5_0	Kelly	not side effect	2019-08-06 01:35:02
+biocell-collagen_5_1-Kelly	biocell-collagen_5_1	Kelly	not side effect	2019-08-06 01:35:04
+biocell-collagen_5_2-Kelly	biocell-collagen_5_2	Kelly	not side effect	2019-08-06 01:35:05
+biocell-collagen_5_3-Kelly	biocell-collagen_5_3	Kelly	side effect	2019-08-06 01:35:07
+biotin_1_0-Kelly	biotin_1_0	Kelly	not side effect	2019-08-06 01:35:08
+biotin_1_1-Kelly	biotin_1_1	Kelly	not side effect	2019-08-06 01:35:09
+biotin_1_2-Kelly	biotin_1_2	Kelly	not side effect	2019-08-06 01:35:10
+biotin_1_3-Kelly	biotin_1_3	Kelly	not side effect	2019-08-06 01:35:11
+biotin_2_0-Kelly	biotin_2_0	Kelly	not side effect	2019-08-06 01:35:12
+biotin_2_1-Kelly	biotin_2_1	Kelly	not side effect	2019-08-06 01:35:19
+biotin_2_2-Kelly	biotin_2_2	Kelly	not side effect	2019-08-06 01:35:20
+biotin_2_3-Kelly	biotin_2_3	Kelly	not side effect	2019-08-06 01:35:20
+biotin_2_4-Kelly	biotin_2_4	Kelly	not side effect	2019-08-06 01:35:21
+biotin_2_5-Kelly	biotin_2_5	Kelly	not side effect	2019-08-06 02:01:08
+biotin_2_7-Kelly	biotin_2_7	Kelly	not side effect	2019-08-06 02:01:15
+biotin_3_0-Kelly	biotin_3_0	Kelly	not side effect	2019-08-06 02:01:15
+biotin_3_1-Kelly	biotin_3_1	Kelly	not side effect	2019-08-06 02:01:17
+biotin_3_2-Kelly	biotin_3_2	Kelly	not side effect	2019-08-06 02:01:17
+biotin_3_3-Kelly	biotin_3_3	Kelly	not side effect	2019-08-06 02:01:19
+biotin_3_4-Kelly	biotin_3_4	Kelly	not side effect	2019-08-06 02:01:21
+biotin_4_1-Kelly	biotin_4_1	Kelly	not side effect	2019-08-06 02:01:22
+biotin_4_3-Kelly	biotin_4_3	Kelly	not side effect	2019-08-06 13:28:09
+biotin_4_4-Kelly	biotin_4_4	Kelly	not side effect	2019-08-06 13:28:10
+biotin_4_6-Kelly	biotin_4_6	Kelly	not side effect	2019-08-06 13:28:11
+biotin_4_7-Kelly	biotin_4_7	Kelly	not side effect	2019-08-06 13:28:12
+biotin_4_8-Kelly	biotin_4_8	Kelly	not side effect	2019-08-06 13:28:13
+biotin_5_0-Kelly	biotin_5_0	Kelly	not side effect	2019-08-06 13:28:14
+biotin_5_1-Kelly	biotin_5_1	Kelly	not side effect	2019-08-06 13:28:15
+biotin_5_10-Kelly	biotin_5_10	Kelly	not side effect	2019-08-06 13:28:17
+biotin_5_12-Kelly	biotin_5_12	Kelly	not side effect	2019-08-06 13:28:19
+biotin_5_15-Kelly	biotin_5_15	Kelly	not side effect	2019-08-06 13:28:19
+biotin_5_2-Kelly	biotin_5_2	Kelly	not side effect	2019-08-06 13:28:20
+biotin_5_3-Kelly	biotin_5_3	Kelly	not side effect	2019-08-06 13:28:22
+biotin_5_4-Kelly	biotin_5_4	Kelly	not side effect	2019-08-06 13:28:23
+biotin_5_6-Kelly	biotin_5_6	Kelly	not side effect	2019-08-06 13:28:25
+biotin_5_7-Kelly	biotin_5_7	Kelly	not side effect	2019-08-06 13:28:28
+biotin_5_8-Kelly	biotin_5_8	Kelly	not side effect	2019-08-06 13:28:28
+biotin_5_9-Kelly	biotin_5_9	Kelly	side effect	2019-08-06 13:28:32
+birch_1_0-Kelly	birch_1_0	Kelly	not side effect	2019-08-06 13:28:45
+birch_1_2-Kelly	birch_1_2	Kelly	not side effect	2019-08-06 13:28:34
+birch_1_3-Kelly	birch_1_3	Kelly	not side effect	2019-08-06 13:28:46
+birch_1_4-Kelly	birch_1_4	Kelly	not side effect	2019-08-06 13:28:47
+birch_1_5-Kelly	birch_1_5	Kelly	not side effect	2019-08-06 13:28:48
+birch_1_6-Kelly	birch_1_6	Kelly	not side effect	2019-08-06 13:28:49
+birch_1_7-Kelly	birch_1_7	Kelly	not side effect	2019-08-06 13:30:14
+birch_1_8-Kelly	birch_1_8	Kelly	not side effect	2019-08-06 13:30:15
+birch_2_0-Kelly	birch_2_0	Kelly	side effect	2019-08-06 13:30:23
+birch_2_2-Kelly	birch_2_2	Kelly	side effect	2019-08-06 13:30:27
+bishops-weed_1_0-Kelly	bishops-weed_1_0	Kelly	not side effect	2019-08-06 13:30:32
+bishops-weed_2_1-Kelly	bishops-weed_2_1	Kelly	not side effect	2019-08-06 13:30:38
+bitter-almond_2_1-Kelly	bitter-almond_2_1	Kelly	not side effect	2019-08-06 13:30:42
+bitter-almond_4_1-Kelly	bitter-almond_4_1	Kelly	not side effect	2019-08-06 13:30:50
+bitter-melon_1_0-Kelly	bitter-melon_1_0	Kelly	not side effect	2019-08-06 13:39:32
+bitter-melon_1_1-Kelly	bitter-melon_1_1	Kelly	not side effect	2019-08-06 13:39:34
+bitter-melon_2_0-Kelly	bitter-melon_2_0	Kelly	not side effect	2019-08-06 13:39:36
+bitter-melon_3_0-Kelly	bitter-melon_3_0	Kelly	side effect	2019-08-06 13:39:41
+bitter-melon_3_1-Kelly	bitter-melon_3_1	Kelly	side effect	2019-08-06 13:39:44
+bitter-melon_3_2-Kelly	bitter-melon_3_2	Kelly	not side effect	2019-08-06 13:39:45
+bitter-melon_4_0-Kelly	bitter-melon_4_0	Kelly	not side effect	2019-08-06 13:39:55
+bitter-melon_4_1-Kelly	bitter-melon_4_1	Kelly	not side effect	2019-08-06 13:39:58
+bitter-melon_4_2-Kelly	bitter-melon_4_2	Kelly	not side effect	2019-08-06 13:40:01
+bitter-melon_4_3-Kelly	bitter-melon_4_3	Kelly	not side effect	2019-08-06 13:40:01
+bitter-melon_4_5-Kelly	bitter-melon_4_5	Kelly	not side effect	2019-08-06 13:40:05
+bitter-melon_4_6-Kelly	bitter-melon_4_6	Kelly	not side effect	2019-08-06 13:40:05
+bitter-melon_4_7-Kelly	bitter-melon_4_7	Kelly	not side effect	2019-08-06 13:40:09
+bitter-melon_4_8-Kelly	bitter-melon_4_8	Kelly	not side effect	2019-08-06 13:40:09
+bitter-melon_5_0-Kelly	bitter-melon_5_0	Kelly	not side effect	2019-08-06 13:40:10
+bitter-melon_5_1-Kelly	bitter-melon_5_1	Kelly	not side effect	2019-08-06 13:41:51
+bitter-melon_5_3-Kelly	bitter-melon_5_3	Kelly	not side effect	2019-08-06 13:41:52
+bitter-melon_5_4-Kelly	bitter-melon_5_4	Kelly	not side effect	2019-08-06 13:41:55
+bitter-melon_5_5-Kelly	bitter-melon_5_5	Kelly	not side effect	2019-08-06 13:41:57
+bitter-melon_5_6-Kelly	bitter-melon_5_6	Kelly	not side effect	2019-08-06 13:41:57
+bitter-melon_5_7-Kelly	bitter-melon_5_7	Kelly	not side effect	2019-08-06 13:41:58
+bitter-orange_1_0-Kelly	bitter-orange_1_0	Kelly	not side effect	2019-08-06 13:41:59
+bitter-orange_1_1-Kelly	bitter-orange_1_1	Kelly	not side effect	2019-08-06 13:42:00
+bitter-orange_1_2-Kelly	bitter-orange_1_2	Kelly	not side effect	2019-08-06 13:42:01
+bitter-orange_1_3-Kelly	bitter-orange_1_3	Kelly	not side effect	2019-08-06 13:42:04
+bitter-orange_1_4-Kelly	bitter-orange_1_4	Kelly	not side effect	2019-08-06 13:42:08
+bitter-orange_1_5-Kelly	bitter-orange_1_5	Kelly	not side effect	2019-08-06 13:42:11
+bitter-orange_1_6-Kelly	bitter-orange_1_6	Kelly	not side effect	2019-08-06 13:42:13
+bitter-orange_1_7-Kelly	bitter-orange_1_7	Kelly	not side effect	2019-08-06 13:42:15
+bitter-orange_1_8-Kelly	bitter-orange_1_8	Kelly	not side effect	2019-08-06 13:42:17
+bitter-orange_1_9-Kelly	bitter-orange_1_9	Kelly	not side effect	2019-08-06 13:42:18
+bitter-orange_3_0-Kelly	bitter-orange_3_0	Kelly	not side effect	2019-08-06 13:49:15
+bitter-orange_3_2-Kelly	bitter-orange_3_2	Kelly	side effect	2019-08-06 13:49:25
+bitter-orange_4_0-Kelly	bitter-orange_4_0	Kelly	not side effect	2019-08-06 13:49:26
+bitter-orange_4_1-Kelly	bitter-orange_4_1	Kelly	not side effect	2019-08-06 13:49:26
+bitter-orange_4_2-Kelly	bitter-orange_4_2	Kelly	side effect	2019-08-06 13:49:28
+bitter-orange_4_3-Kelly	bitter-orange_4_3	Kelly	not side effect	2019-08-06 13:49:31
+bittersweet-nightshade_1_0-Kelly	bittersweet-nightshade_1_0	Kelly	not side effect	2019-08-06 13:49:34
+bittersweet-nightshade_1_1-Kelly	bittersweet-nightshade_1_1	Kelly	not side effect	2019-08-06 13:49:35
+bittersweet-nightshade_1_2-Kelly	bittersweet-nightshade_1_2	Kelly	not side effect	2019-08-06 13:49:37
+bittersweet-nightshade_1_3-Kelly	bittersweet-nightshade_1_3	Kelly	not side effect	2019-08-06 13:49:39
+black-cohosh_1_0-Kelly	black-cohosh_1_0	Kelly	not side effect	2019-08-06 13:49:42
+black-cohosh_1_1-Kelly	black-cohosh_1_1	Kelly	not side effect	2019-08-06 13:49:44
+black-cohosh_1_2-Kelly	black-cohosh_1_2	Kelly	not side effect	2019-08-06 13:49:45
+black-cohosh_1_6-Kelly	black-cohosh_1_6	Kelly	not side effect	2019-08-06 13:49:51
+black-cohosh_2_0-Kelly	black-cohosh_2_0	Kelly	not side effect	2019-08-06 13:49:51
+black-cohosh_3_0-Kelly	black-cohosh_3_0	Kelly	not side effect	2019-08-06 13:49:52
+black-cohosh_3_1-Kelly	black-cohosh_3_1	Kelly	not side effect	2019-08-06 13:49:53
+black-cohosh_3_2-Kelly	black-cohosh_3_2	Kelly	not side effect	2019-08-06 13:49:56
+black-cohosh_4_1-Kelly	black-cohosh_4_1	Kelly	not side effect	2019-08-06 13:49:58
+black-cohosh_4_2-Kelly	black-cohosh_4_2	Kelly	not side effect	2019-08-06 13:49:59
+black-cohosh_5_0-Kelly	black-cohosh_5_0	Kelly	not side effect	2019-08-06 13:50:00
+black-cohosh_5_1-Kelly	black-cohosh_5_1	Kelly	not side effect	2019-08-06 13:50:06
+black-cohosh_5_2-Kelly	black-cohosh_5_2	Kelly	not side effect	2019-08-06 13:50:06
+black-cohosh_5_3-Kelly	black-cohosh_5_3	Kelly	not side effect	2019-08-06 13:50:07
+black-cohosh_5_4-Kelly	black-cohosh_5_4	Kelly	not side effect	2019-08-06 13:50:08
+black-cohosh_5_5-Kelly	black-cohosh_5_5	Kelly	not side effect	2019-08-06 13:50:10
+black-currant_1_2-Kelly	black-currant_1_2	Kelly	not side effect	2019-08-06 14:04:59
+black-currant_1_3-Kelly	black-currant_1_3	Kelly	not side effect	2019-08-06 14:05:27
+black-currant_1_4-Kelly	black-currant_1_4	Kelly	not side effect	2019-08-06 14:05:28
+black-currant_1_5-Kelly	black-currant_1_5	Kelly	not side effect	2019-08-06 14:05:29
+black-currant_1_6-Kelly	black-currant_1_6	Kelly	not side effect	2019-08-06 14:05:30
+black-currant_1_7-Kelly	black-currant_1_7	Kelly	not side effect	2019-08-06 14:05:31
+black-currant_1_8-Kelly	black-currant_1_8	Kelly	not side effect	2019-08-06 14:05:32
+black-currant_3_0-Kelly	black-currant_3_0	Kelly	not side effect	2019-08-06 14:05:35
+black-currant_3_1-Kelly	black-currant_3_1	Kelly	not side effect	2019-08-06 14:05:36
+black-currant_4_0-Kelly	black-currant_4_0	Kelly	not side effect	2019-08-06 14:05:37
+black-currant_4_1-Kelly	black-currant_4_1	Kelly	not side effect	2019-08-06 14:05:39
+black-currant_5_0-Kelly	black-currant_5_0	Kelly	not side effect	2019-08-06 14:18:28
+black-currant_5_1-Kelly	black-currant_5_1	Kelly	not side effect	2019-08-06 14:18:28
+black-currant_5_2-Kelly	black-currant_5_2	Kelly	not side effect	2019-08-06 14:18:29
+black-currant_5_3-Kelly	black-currant_5_3	Kelly	not side effect	2019-08-06 14:18:29
+black-mulberry_1_0-Kelly	black-mulberry_1_0	Kelly	not side effect	2019-08-06 14:22:18
+black-mulberry_1_1-Kelly	black-mulberry_1_1	Kelly	not side effect	2019-08-06 14:22:20
+black-mulberry_1_2-Kelly	black-mulberry_1_2	Kelly	not side effect	2019-08-06 14:22:21
+black-mulberry_1_3-Kelly	black-mulberry_1_3	Kelly	not side effect	2019-08-06 14:22:23
+black-mulberry_1_4-Kelly	black-mulberry_1_4	Kelly	not side effect	2019-08-06 14:22:24
+black-pepper-and-white-pepper_1_0-Kelly	black-pepper-and-white-pepper_1_0	Kelly	not side effect	2019-08-06 14:23:27
+black-pepper-and-white-pepper_2_0-Kelly	black-pepper-and-white-pepper_2_0	Kelly	not side effect	2019-08-06 14:23:29
